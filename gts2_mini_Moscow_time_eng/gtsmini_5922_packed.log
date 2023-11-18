@@ -1,0 +1,2047 @@
+2022-09-30 01:26:49,851 - root - DEBUG - Reading config...
+2022-09-30 01:26:49,852 - root - DEBUG - t: {
+  "Info": {
+    "DeviceId": 73
+  },
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "PreviewTradChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    },
+    "PreviewChinese": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    }
+  },
+  "Activity": {
+    "Steps": {
+      "ImageNumber": {
+        "TopLeftX": 197,
+        "TopLeftY": 319,
+        "BottomRightX": 273,
+        "BottomRightY": 339,
+        "Alignment": "TopLeft",
+        "Spacing": 2,
+        "VerticalOffset": 0,
+        "ImageIndex": 31,
+        "ImagesCount": 10
+      },
+      "Icon": {
+        "X": 162,
+        "Y": 319,
+        "ImageIndex": 41
+      }
+    },
+    "Distance": {
+      "ImageNumber": {
+        "TopLeftX": 95,
+        "TopLeftY": 319,
+        "BottomRightX": 144,
+        "BottomRightY": 339,
+        "Alignment": "TopLeft",
+        "Spacing": 1,
+        "VerticalOffset": 0,
+        "ImageIndex": 31,
+        "ImagesCount": 10
+      },
+      "DecimalPointImageIndex": 42,
+      "Icon": {
+        "X": 57,
+        "Y": 319,
+        "ImageIndex": 43
+      }
+    },
+    "HeartRate": {
+      "ImageNumber": {
+        "TopLeftX": 50,
+        "TopLeftY": 11,
+        "BottomRightX": 116,
+        "BottomRightY": 36,
+        "Alignment": "TopCenter",
+        "Spacing": 1,
+        "VerticalOffset": 0,
+        "ImageIndex": 2,
+        "ImagesCount": 10
+      },
+      "NoDataImageIndex": 88,
+      "Icon": {
+        "X": 26,
+        "Y": 11,
+        "ImageIndex": 87
+      }
+    },
+    "UnknownLongValue7": 0
+  },
+  "DateBlock": {
+    "Date": {
+      "PaddingZeroMonth": false,
+      "PaddingZeroDay": true,
+      "UnknownBoolean6": false,
+      "YearMonthAndDay": {
+        "Day": {
+          "TopLeftX": 82,
+          "TopLeftY": 111,
+          "BottomRightX": 83,
+          "BottomRightY": 132,
+          "Alignment": "TopLeft",
+          "Spacing": 3,
+          "VerticalOffset": 0,
+          "ImageIndex": 2,
+          "ImagesCount": 10
+        },
+        "MonthFollowsYear": false,
+        "DayFollowsMonth": false,
+        "MonthAsWord": {
+          "X": 133,
+          "Y": 108,
+          "ImageIndex": 12,
+          "ImagesCount": 12
+        },
+        "MonthAsWordChinese": {
+          "X": 103,
+          "Y": 124,
+          "ImageIndex": 12,
+          "ImagesCount": 12
+        }
+      }
+    },
+    "Weekday": {
+      "X": 0,
+      "Y": 47,
+      "ImageIndex": 24,
+      "ImagesCount": 7
+    },
+    "WeekdayChinese": {
+      "X": 24,
+      "Y": 71,
+      "ImageIndex": 24,
+      "ImagesCount": 7
+    },
+    "WeekdayTradChinese": {
+      "X": 24,
+      "Y": 71,
+      "ImageIndex": 24,
+      "ImagesCount": 7
+    }
+  },
+  "Weather": {
+    "Icon": {
+      "Images": {
+        "X": 3,
+        "Y": 250,
+        "ImageIndex": 44,
+        "ImagesCount": 26
+      }
+    },
+    "Temperature": {
+      "Current": {
+        "ImageNumber": {
+          "TopLeftX": 121,
+          "TopLeftY": 11,
+          "BottomRightX": 187,
+          "BottomRightY": 36,
+          "Alignment": "TopCenter",
+          "Spacing": 2,
+          "VerticalOffset": 0,
+          "ImageIndex": 2,
+          "ImagesCount": 10
+        },
+        "MinusImageIndex": 71,
+        "SuffixImageIndexC": 70,
+        "NoDataImageIndex": 89
+      }
+    }
+  },
+  "Status": {
+    "Bluetooth": {
+      "Coordinates": {
+        "X": 13,
+        "Y": 193
+      },
+      "ImageIndexOff": 72
+    }
+  },
+  "Battery": {
+    "BatteryText": {
+      "ImageNumber": {
+        "TopLeftX": 188,
+        "TopLeftY": 11,
+        "BottomRightX": 269,
+        "BottomRightY": 36,
+        "Alignment": "TopRight",
+        "Spacing": 2,
+        "VerticalOffset": 0,
+        "ImageIndex": 2,
+        "ImagesCount": 10
+      },
+      "SuffixImageIndex": 75
+    }
+  },
+  "TimeDigital": {
+    "Hours": {
+      "TopLeftX": 48,
+      "TopLeftY": 175,
+      "BottomRightX": 258,
+      "BottomRightY": 235,
+      "Alignment": "TopCenter",
+      "Spacing": 9,
+      "VerticalOffset": 0,
+      "ImageIndex": 76,
+      "ImagesCount": 10
+    },
+    "PaddingZeroHours": true,
+    "DelimiterHoursImageIndex": 86,
+    "HoursFollowPosition": false,
+    "Time": {
+      "Unknown1": 1,
+      "Minutes": {
+        "TopLeftX": 0,
+        "TopLeftY": 0,
+        "BottomRightX": 1,
+        "BottomRightY": 1,
+        "Alignment": "TopLeft",
+        "Spacing": 0,
+        "VerticalOffset": 0,
+        "ImageIndex": 76,
+        "ImagesCount": 10
+      },
+      "PaddingZeroMinutes": true,
+      "PaddingZeroSeconds": true,
+      "MinutesFollowHours": true,
+      "SecondsFollowMinutes": false
+    }
+  }
+}
+2022-09-30 01:26:49,856 - root - DEBUG - Reading referenced images from '../gtsmini_5922'
+2022-09-30 01:26:49,856 - root - DEBUG - INDEX (None, 'Info') '{'DeviceId': 73}'
+2022-09-30 01:26:49,856 - root - DEBUG - Loading resources for 0 '<class 'watchFaceParser.elements.gts2mini.deviceId.DeviceId'>'
+2022-09-30 01:26:49,856 - root - DEBUG - INDEX (None, 'DeviceId') '73'
+2022-09-30 01:26:49,856 - root - DEBUG - INDEX (None, 'Background') '{'Image': {'X': 0, 'Y': 0, 'ImageIndex': 0}, 'Preview': {'X': 0, 'Y': 0, 'ImageIndex': 1}, 'PreviewTradChinese': {'X': 0, 'Y': 0, 'ImageIndex': 1}, 'PreviewChinese': {'X': 0, 'Y': 0, 'ImageIndex': 1}}'
+2022-09-30 01:26:49,856 - root - DEBUG - Loading resources for 2 '<class 'watchFaceParser.elements.gts2mini.background.Background'>'
+2022-09-30 01:26:49,856 - root - DEBUG - INDEX (None, 'Image') '{'X': 0, 'Y': 0, 'ImageIndex': 0}'
+2022-09-30 01:26:49,856 - root - DEBUG - Loading resources for 2.1 '<class 'watchFaceParser.elements.gts2mini.basicElements.image.Image'>'
+2022-09-30 01:26:49,856 - root - DEBUG - INDEX (None, 'X') '0'
+2022-09-30 01:26:49,856 - root - DEBUG - INDEX (None, 'Y') '0'
+2022-09-30 01:26:49,856 - root - DEBUG - INDEX ('long', 'ImageIndex') '0'
+2022-09-30 01:26:49,856 - root - DEBUG - Request image index 0...
+2022-09-30 01:26:49,856 - root - DEBUG - Loading image 0...
+2022-09-30 01:26:49,868 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,868 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 1304
+2022-09-30 01:26:49,869 - root - DEBUG - INDEX (None, 'BackgroundColor') 'None'
+2022-09-30 01:26:49,869 - root - DEBUG - INDEX (None, 'Preview') '{'X': 0, 'Y': 0, 'ImageIndex': 1}'
+2022-09-30 01:26:49,869 - root - DEBUG - Loading resources for 2.3 '<class 'watchFaceParser.elements.gts2mini.basicElements.image.Image'>'
+2022-09-30 01:26:49,869 - root - DEBUG - INDEX (None, 'X') '0'
+2022-09-30 01:26:49,869 - root - DEBUG - INDEX (None, 'Y') '0'
+2022-09-30 01:26:49,869 - root - DEBUG - INDEX ('long', 'ImageIndex') '1'
+2022-09-30 01:26:49,869 - root - DEBUG - Request image index 1...
+2022-09-30 01:26:49,869 - root - DEBUG - Loading image 1...
+2022-09-30 01:26:49,869 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,869 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 20129
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'PreviewTradChinese') '{'X': 0, 'Y': 0, 'ImageIndex': 1}'
+2022-09-30 01:26:49,870 - root - DEBUG - Loading resources for 2.4 '<class 'watchFaceParser.elements.gts2mini.basicElements.image.Image'>'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'X') '0'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'Y') '0'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX ('long', 'ImageIndex') '1'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'PreviewChinese') '{'X': 0, 'Y': 0, 'ImageIndex': 1}'
+2022-09-30 01:26:49,870 - root - DEBUG - Loading resources for 2.5 '<class 'watchFaceParser.elements.gts2mini.basicElements.image.Image'>'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'X') '0'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'Y') '0'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX ('long', 'ImageIndex') '1'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'FloatingLayer') 'None'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'BackgroundZeppCustom') 'None'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'UnknownZeppCustom8') 'None'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'UnknownZeppCustom9') 'None'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'UnknownZeppCustom10') 'None'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'TimeExtended') 'None'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'Activity') '{'Steps': {'ImageNumber': {'TopLeftX': 197, 'TopLeftY': 319, 'BottomRightX': 273, 'BottomRightY': 339, 'Alignment': 'TopLeft', 'Spacing': 2, 'VerticalOffset': 0, 'ImageIndex': 31, 'ImagesCount': 10}, 'Icon': {'X': 162, 'Y': 319, 'ImageIndex': 41}}, 'Distance': {'ImageNumber': {'TopLeftX': 95, 'TopLeftY': 319, 'BottomRightX': 144, 'BottomRightY': 339, 'Alignment': 'TopLeft', 'Spacing': 1, 'VerticalOffset': 0, 'ImageIndex': 31, 'ImagesCount': 10}, 'DecimalPointImageIndex': 42, 'Icon': {'X': 57, 'Y': 319, 'ImageIndex': 43}}, 'HeartRate': {'ImageNumber': {'TopLeftX': 50, 'TopLeftY': 11, 'BottomRightX': 116, 'BottomRightY': 36, 'Alignment': 'TopCenter', 'Spacing': 1, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}, 'NoDataImageIndex': 88, 'Icon': {'X': 26, 'Y': 11, 'ImageIndex': 87}}, 'UnknownLongValue7': 0}'
+2022-09-30 01:26:49,870 - root - DEBUG - Loading resources for 4 '<class 'watchFaceParser.elements.gts2mini.activity.Activity'>'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'Steps') '{'ImageNumber': {'TopLeftX': 197, 'TopLeftY': 319, 'BottomRightX': 273, 'BottomRightY': 339, 'Alignment': 'TopLeft', 'Spacing': 2, 'VerticalOffset': 0, 'ImageIndex': 31, 'ImagesCount': 10}, 'Icon': {'X': 162, 'Y': 319, 'ImageIndex': 41}}'
+2022-09-30 01:26:49,870 - root - DEBUG - Loading resources for 4.1 '<class 'watchFaceParser.elements.gts2mini.activityElements.steps.Steps'>'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'ImageNumber') '{'TopLeftX': 197, 'TopLeftY': 319, 'BottomRightX': 273, 'BottomRightY': 339, 'Alignment': 'TopLeft', 'Spacing': 2, 'VerticalOffset': 0, 'ImageIndex': 31, 'ImagesCount': 10}'
+2022-09-30 01:26:49,870 - root - DEBUG - Loading resources for 4.1.1 '<class 'watchFaceParser.elements.gts2mini.basicElements.number.Number'>'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'TopLeftX') '197'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'TopLeftY') '319'
+2022-09-30 01:26:49,870 - root - DEBUG - INDEX (None, 'BottomRightX') '273'
+2022-09-30 01:26:49,871 - root - DEBUG - INDEX (None, 'BottomRightY') '339'
+2022-09-30 01:26:49,871 - root - DEBUG - INDEX (None, 'Alignment') 'TopLeft'
+2022-09-30 01:26:49,871 - root - DEBUG - Loading resources for 4.1.1.5 '<class 'watchFaceParser.models.textAlignment.TextAlignment'>'
+2022-09-30 01:26:49,871 - root - DEBUG - INDEX (None, 'Spacing') '2'
+2022-09-30 01:26:49,871 - root - DEBUG - INDEX (None, 'VerticalOffset') '0'
+2022-09-30 01:26:49,871 - root - DEBUG - INDEX ('long', 'ImageIndex') '31'
+2022-09-30 01:26:49,871 - root - DEBUG - Request image index 31...
+2022-09-30 01:26:49,871 - root - DEBUG - Loading image 2...
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 584
+2022-09-30 01:26:49,871 - root - DEBUG - Loading image 3...
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 170
+2022-09-30 01:26:49,871 - root - DEBUG - Loading image 4...
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 415
+2022-09-30 01:26:49,871 - root - DEBUG - Loading image 5...
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 564
+2022-09-30 01:26:49,871 - root - DEBUG - Loading image 6...
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 406
+2022-09-30 01:26:49,871 - root - DEBUG - Loading image 7...
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 501
+2022-09-30 01:26:49,871 - root - DEBUG - Loading image 8...
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 607
+2022-09-30 01:26:49,871 - root - DEBUG - Loading image 9...
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 301
+2022-09-30 01:26:49,871 - root - DEBUG - Loading image 10...
+2022-09-30 01:26:49,871 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 625
+2022-09-30 01:26:49,872 - root - DEBUG - Loading image 11...
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 642
+2022-09-30 01:26:49,872 - root - DEBUG - Loading image 12...
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 389
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 442 6
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - b'bKGD' 442 6 (unknown)
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 460 9
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 481 1152
+2022-09-30 01:26:49,872 - root - DEBUG - Loading image 13...
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 389
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 442 6
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - b'bKGD' 442 6 (unknown)
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 460 9
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 481 777
+2022-09-30 01:26:49,872 - root - DEBUG - Loading image 14...
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 389
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 442 6
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - b'bKGD' 442 6 (unknown)
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 460 9
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 481 1556
+2022-09-30 01:26:49,872 - root - DEBUG - Loading image 15...
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 389
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 442 6
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - b'bKGD' 442 6 (unknown)
+2022-09-30 01:26:49,872 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 460 9
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 481 1297
+2022-09-30 01:26:49,873 - root - DEBUG - Loading image 16...
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 389
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 442 6
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - b'bKGD' 442 6 (unknown)
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 460 9
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 481 1445
+2022-09-30 01:26:49,873 - root - DEBUG - Loading image 17...
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 388
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 441 6
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - b'bKGD' 441 6 (unknown)
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 459 9
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'tIME' 480 7
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - b'tIME' 480 7 (unknown)
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 499 1052
+2022-09-30 01:26:49,873 - root - DEBUG - Loading image 18...
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 389
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 442 6
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - b'bKGD' 442 6 (unknown)
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 460 9
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 481 1062
+2022-09-30 01:26:49,873 - root - DEBUG - Loading image 19...
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 388
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 441 6
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - b'bKGD' 441 6 (unknown)
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 459 9
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 480 1320
+2022-09-30 01:26:49,873 - root - DEBUG - Loading image 20...
+2022-09-30 01:26:49,873 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 389
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 442 6
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - b'bKGD' 442 6 (unknown)
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 460 9
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 481 1064
+2022-09-30 01:26:49,874 - root - DEBUG - Loading image 21...
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 389
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 442 6
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - b'bKGD' 442 6 (unknown)
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 460 9
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 481 1176
+2022-09-30 01:26:49,874 - root - DEBUG - Loading image 22...
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 389
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 442 6
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - b'bKGD' 442 6 (unknown)
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 460 9
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 481 1449
+2022-09-30 01:26:49,874 - root - DEBUG - Loading image 23...
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 389
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 442 6
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - b'bKGD' 442 6 (unknown)
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 460 9
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 481 1122
+2022-09-30 01:26:49,874 - root - DEBUG - Loading image 24...
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 388
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 441 6
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - b'bKGD' 441 6 (unknown)
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 459 9
+2022-09-30 01:26:49,874 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 480 6927
+2022-09-30 01:26:49,875 - root - DEBUG - Loading image 25...
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 388
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 441 6
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - b'bKGD' 441 6 (unknown)
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 459 9
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 480 6775
+2022-09-30 01:26:49,875 - root - DEBUG - Loading image 26...
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 388
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 441 6
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - b'bKGD' 441 6 (unknown)
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 459 9
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 480 6898
+2022-09-30 01:26:49,875 - root - DEBUG - Loading image 27...
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 389
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 442 6
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - b'bKGD' 442 6 (unknown)
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 460 9
+2022-09-30 01:26:49,875 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 481 5879
+2022-09-30 01:26:49,876 - root - DEBUG - Loading image 28...
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 388
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 441 6
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - b'bKGD' 441 6 (unknown)
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 459 9
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 480 6789
+2022-09-30 01:26:49,876 - root - DEBUG - Loading image 29...
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 388
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 441 6
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - b'bKGD' 441 6 (unknown)
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 459 9
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 480 6845
+2022-09-30 01:26:49,876 - root - DEBUG - Loading image 30...
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 388
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 441 6
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - b'bKGD' 441 6 (unknown)
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 459 9
+2022-09-30 01:26:49,876 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 480 6838
+2022-09-30 01:26:49,877 - root - DEBUG - Loading image 31...
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 443
+2022-09-30 01:26:49,877 - root - DEBUG - INDEX (None, 'ImagesCount') '10'
+2022-09-30 01:26:49,877 - root - DEBUG - Request image index 32...
+2022-09-30 01:26:49,877 - root - DEBUG - Loading image 32...
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 131
+2022-09-30 01:26:49,877 - root - DEBUG - Request image index 33...
+2022-09-30 01:26:49,877 - root - DEBUG - Loading image 33...
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 365
+2022-09-30 01:26:49,877 - root - DEBUG - Request image index 34...
+2022-09-30 01:26:49,877 - root - DEBUG - Loading image 34...
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 447
+2022-09-30 01:26:49,877 - root - DEBUG - Request image index 35...
+2022-09-30 01:26:49,877 - root - DEBUG - Loading image 35...
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 351
+2022-09-30 01:26:49,877 - root - DEBUG - Request image index 36...
+2022-09-30 01:26:49,877 - root - DEBUG - Loading image 36...
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 430
+2022-09-30 01:26:49,877 - root - DEBUG - Request image index 37...
+2022-09-30 01:26:49,877 - root - DEBUG - Loading image 37...
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 487
+2022-09-30 01:26:49,877 - root - DEBUG - Request image index 38...
+2022-09-30 01:26:49,877 - root - DEBUG - Loading image 38...
+2022-09-30 01:26:49,877 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,878 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 248
+2022-09-30 01:26:49,878 - root - DEBUG - Request image index 39...
+2022-09-30 01:26:49,878 - root - DEBUG - Loading image 39...
+2022-09-30 01:26:49,878 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,878 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 523
+2022-09-30 01:26:49,878 - root - DEBUG - Request image index 40...
+2022-09-30 01:26:49,878 - root - DEBUG - Loading image 40...
+2022-09-30 01:26:49,878 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,878 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 462
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX ('long', 'PrefixImageIndex') 'None'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX ('long', 'NoDataImageIndex') 'None'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'Icon') '{'X': 162, 'Y': 319, 'ImageIndex': 41}'
+2022-09-30 01:26:49,878 - root - DEBUG - Loading resources for 4.1.4 '<class 'watchFaceParser.elements.gts2mini.basicElements.image.Image'>'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'X') '162'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'Y') '319'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX ('long', 'ImageIndex') '41'
+2022-09-30 01:26:49,878 - root - DEBUG - Request image index 41...
+2022-09-30 01:26:49,878 - root - DEBUG - Loading image 41...
+2022-09-30 01:26:49,878 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,878 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 1057
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'Shortcut') 'None'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX ('long', 'SuffixImageIndex') 'None'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'Icon') 'None'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'Calories') 'None'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'HeartRate') '{'ImageNumber': {'TopLeftX': 50, 'TopLeftY': 11, 'BottomRightX': 116, 'BottomRightY': 36, 'Alignment': 'TopCenter', 'Spacing': 1, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}, 'NoDataImageIndex': 88, 'Icon': {'X': 26, 'Y': 11, 'ImageIndex': 87}}'
+2022-09-30 01:26:49,878 - root - DEBUG - Loading resources for 4.4 '<class 'watchFaceParser.elements.gts2mini.activityElements.heartrate.HeartRate'>'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'ImageNumber') '{'TopLeftX': 50, 'TopLeftY': 11, 'BottomRightX': 116, 'BottomRightY': 36, 'Alignment': 'TopCenter', 'Spacing': 1, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}'
+2022-09-30 01:26:49,878 - root - DEBUG - Loading resources for 4.4.1 '<class 'watchFaceParser.elements.gts2mini.basicElements.number.Number'>'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'TopLeftX') '50'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'TopLeftY') '11'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'BottomRightX') '116'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'BottomRightY') '36'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'Alignment') 'TopCenter'
+2022-09-30 01:26:49,878 - root - DEBUG - Loading resources for 4.4.1.5 '<class 'watchFaceParser.models.textAlignment.TextAlignment'>'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'Spacing') '1'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'VerticalOffset') '0'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX ('long', 'ImageIndex') '2'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX (None, 'ImagesCount') '10'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX ('long', 'PrefixImageIndex') 'None'
+2022-09-30 01:26:49,878 - root - DEBUG - INDEX ('long', 'NoDataImageIndex') '88'
+2022-09-30 01:26:49,878 - root - DEBUG - Request image index 88...
+2022-09-30 01:26:49,878 - root - DEBUG - Loading image 42...
+2022-09-30 01:26:49,878 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,878 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 28
+2022-09-30 01:26:49,878 - root - DEBUG - Loading image 43...
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 59 9
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'tIME' 80 7
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - b'tIME' 80 7 (unknown)
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 99 874
+2022-09-30 01:26:49,879 - root - DEBUG - Loading image 44...
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 3744
+2022-09-30 01:26:49,879 - root - DEBUG - Loading image 45...
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 3232
+2022-09-30 01:26:49,879 - root - DEBUG - Loading image 46...
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 5244
+2022-09-30 01:26:49,879 - root - DEBUG - Loading image 47...
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,879 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 3764
+2022-09-30 01:26:49,880 - root - DEBUG - Loading image 48...
+2022-09-30 01:26:49,880 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,880 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 3286
+2022-09-30 01:26:49,880 - root - DEBUG - Loading image 49...
+2022-09-30 01:26:49,880 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,880 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 3634
+2022-09-30 01:26:49,880 - root - DEBUG - Loading image 50...
+2022-09-30 01:26:49,880 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,880 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 5819
+2022-09-30 01:26:49,880 - root - DEBUG - Loading image 51...
+2022-09-30 01:26:49,880 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,880 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 4434
+2022-09-30 01:26:49,880 - root - DEBUG - Loading image 52...
+2022-09-30 01:26:49,880 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,881 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 5693
+2022-09-30 01:26:49,881 - root - DEBUG - Loading image 53...
+2022-09-30 01:26:49,881 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,881 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 4363
+2022-09-30 01:26:49,881 - root - DEBUG - Loading image 54...
+2022-09-30 01:26:49,881 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,881 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 3970
+2022-09-30 01:26:49,881 - root - DEBUG - Loading image 55...
+2022-09-30 01:26:49,881 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,881 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 5251
+2022-09-30 01:26:49,881 - root - DEBUG - Loading image 56...
+2022-09-30 01:26:49,881 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,881 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 4605
+2022-09-30 01:26:49,882 - root - DEBUG - Loading image 57...
+2022-09-30 01:26:49,882 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,882 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 4716
+2022-09-30 01:26:49,882 - root - DEBUG - Loading image 58...
+2022-09-30 01:26:49,882 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,882 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 2270
+2022-09-30 01:26:49,882 - root - DEBUG - Loading image 59...
+2022-09-30 01:26:49,882 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,882 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 2719
+2022-09-30 01:26:49,882 - root - DEBUG - Loading image 60...
+2022-09-30 01:26:49,882 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,882 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 5557
+2022-09-30 01:26:49,882 - root - DEBUG - Loading image 61...
+2022-09-30 01:26:49,883 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,883 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 1976
+2022-09-30 01:26:49,883 - root - DEBUG - Loading image 62...
+2022-09-30 01:26:49,883 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,883 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 2274
+2022-09-30 01:26:49,883 - root - DEBUG - Loading image 63...
+2022-09-30 01:26:49,883 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,883 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 4545
+2022-09-30 01:26:49,883 - root - DEBUG - Loading image 64...
+2022-09-30 01:26:49,883 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,883 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 5140
+2022-09-30 01:26:49,883 - root - DEBUG - Loading image 65...
+2022-09-30 01:26:49,883 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,883 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 5003
+2022-09-30 01:26:49,884 - root - DEBUG - Loading image 66...
+2022-09-30 01:26:49,884 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,884 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 4424
+2022-09-30 01:26:49,884 - root - DEBUG - Loading image 67...
+2022-09-30 01:26:49,884 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,884 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 3916
+2022-09-30 01:26:49,884 - root - DEBUG - Loading image 68...
+2022-09-30 01:26:49,884 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,884 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 4465
+2022-09-30 01:26:49,884 - root - DEBUG - Loading image 69...
+2022-09-30 01:26:49,884 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,884 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 2147
+2022-09-30 01:26:49,884 - root - DEBUG - Loading image 70...
+2022-09-30 01:26:49,884 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,884 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 135
+2022-09-30 01:26:49,884 - root - DEBUG - Loading image 71...
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 80
+2022-09-30 01:26:49,885 - root - DEBUG - Loading image 72...
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 765
+2022-09-30 01:26:49,885 - root - DEBUG - Loading image 73...
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 511
+2022-09-30 01:26:49,885 - root - DEBUG - Loading image 74...
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 742
+2022-09-30 01:26:49,885 - root - DEBUG - Loading image 75...
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 934
+2022-09-30 01:26:49,885 - root - DEBUG - Loading image 76...
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 1497
+2022-09-30 01:26:49,885 - root - DEBUG - Loading image 77...
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 304
+2022-09-30 01:26:49,885 - root - DEBUG - Loading image 78...
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 937
+2022-09-30 01:26:49,885 - root - DEBUG - Loading image 79...
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 1480
+2022-09-30 01:26:49,885 - root - DEBUG - Loading image 80...
+2022-09-30 01:26:49,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 858
+2022-09-30 01:26:49,886 - root - DEBUG - Loading image 81...
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 1190
+2022-09-30 01:26:49,886 - root - DEBUG - Loading image 82...
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 1670
+2022-09-30 01:26:49,886 - root - DEBUG - Loading image 83...
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 603
+2022-09-30 01:26:49,886 - root - DEBUG - Loading image 84...
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 1745
+2022-09-30 01:26:49,886 - root - DEBUG - Loading image 85...
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 1662
+2022-09-30 01:26:49,886 - root - DEBUG - Loading image 86...
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 382
+2022-09-30 01:26:49,886 - root - DEBUG - Loading image 87...
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 59 9
+2022-09-30 01:26:49,886 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 80 750
+2022-09-30 01:26:49,887 - root - DEBUG - Loading image 88...
+2022-09-30 01:26:49,887 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,887 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2022-09-30 01:26:49,887 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2022-09-30 01:26:49,887 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 59 9
+2022-09-30 01:26:49,887 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 80 723
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX ('long', 'SuffixImageIndex') 'None'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'Icon') '{'X': 26, 'Y': 11, 'ImageIndex': 87}'
+2022-09-30 01:26:49,887 - root - DEBUG - Loading resources for 4.4.5 '<class 'watchFaceParser.elements.gts2mini.basicElements.image.Image'>'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'X') '26'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'Y') '11'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX ('long', 'ImageIndex') '87'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'Shortcut') 'None'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'Distance') '{'ImageNumber': {'TopLeftX': 95, 'TopLeftY': 319, 'BottomRightX': 144, 'BottomRightY': 339, 'Alignment': 'TopLeft', 'Spacing': 1, 'VerticalOffset': 0, 'ImageIndex': 31, 'ImagesCount': 10}, 'DecimalPointImageIndex': 42, 'Icon': {'X': 57, 'Y': 319, 'ImageIndex': 43}}'
+2022-09-30 01:26:49,887 - root - DEBUG - Loading resources for 4.5 '<class 'watchFaceParser.elements.gts2mini.activityElements.distance.Distance'>'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'ImageNumber') '{'TopLeftX': 95, 'TopLeftY': 319, 'BottomRightX': 144, 'BottomRightY': 339, 'Alignment': 'TopLeft', 'Spacing': 1, 'VerticalOffset': 0, 'ImageIndex': 31, 'ImagesCount': 10}'
+2022-09-30 01:26:49,887 - root - DEBUG - Loading resources for 4.5.1 '<class 'watchFaceParser.elements.gts2mini.basicElements.number.Number'>'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'TopLeftX') '95'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'TopLeftY') '319'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'BottomRightX') '144'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'BottomRightY') '339'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'Alignment') 'TopLeft'
+2022-09-30 01:26:49,887 - root - DEBUG - Loading resources for 4.5.1.5 '<class 'watchFaceParser.models.textAlignment.TextAlignment'>'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'Spacing') '1'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'VerticalOffset') '0'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX ('long', 'ImageIndex') '31'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'ImagesCount') '10'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX ('long', 'SuffixKMImageIndex') 'None'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX ('long', 'DecimalPointImageIndex') '42'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX ('long', 'SuffixMIImageIndex') 'None'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'Icon') '{'X': 57, 'Y': 319, 'ImageIndex': 43}'
+2022-09-30 01:26:49,887 - root - DEBUG - Loading resources for 4.5.5 '<class 'watchFaceParser.elements.gts2mini.basicElements.image.Image'>'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'X') '57'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'Y') '319'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX ('long', 'ImageIndex') '43'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'Shortcut') 'None'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'SuffixImageCoordinates') 'None'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'PAI') 'None'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'UnknownLongValue7') '0'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'StandUp') 'None'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'DateBlock') '{'Date': {'PaddingZeroMonth': False, 'PaddingZeroDay': True, 'UnknownBoolean6': False, 'YearMonthAndDay': {'Day': {'TopLeftX': 82, 'TopLeftY': 111, 'BottomRightX': 83, 'BottomRightY': 132, 'Alignment': 'TopLeft', 'Spacing': 3, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}, 'MonthFollowsYear': False, 'DayFollowsMonth': False, 'MonthAsWord': {'X': 133, 'Y': 108, 'ImageIndex': 12, 'ImagesCount': 12}, 'MonthAsWordChinese': {'X': 103, 'Y': 124, 'ImageIndex': 12, 'ImagesCount': 12}}}, 'Weekday': {'X': 0, 'Y': 47, 'ImageIndex': 24, 'ImagesCount': 7}, 'WeekdayChinese': {'X': 24, 'Y': 71, 'ImageIndex': 24, 'ImagesCount': 7}, 'WeekdayTradChinese': {'X': 24, 'Y': 71, 'ImageIndex': 24, 'ImagesCount': 7}}'
+2022-09-30 01:26:49,887 - root - DEBUG - Loading resources for 5 '<class 'watchFaceParser.elements.gts2mini.dateblock.DateBlock'>'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'Date') '{'PaddingZeroMonth': False, 'PaddingZeroDay': True, 'UnknownBoolean6': False, 'YearMonthAndDay': {'Day': {'TopLeftX': 82, 'TopLeftY': 111, 'BottomRightX': 83, 'BottomRightY': 132, 'Alignment': 'TopLeft', 'Spacing': 3, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}, 'MonthFollowsYear': False, 'DayFollowsMonth': False, 'MonthAsWord': {'X': 133, 'Y': 108, 'ImageIndex': 12, 'ImagesCount': 12}, 'MonthAsWordChinese': {'X': 103, 'Y': 124, 'ImageIndex': 12, 'ImagesCount': 12}}}'
+2022-09-30 01:26:49,887 - root - DEBUG - Loading resources for 5.1 '<class 'watchFaceParser.elements.gts2mini.date.Date'>'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'MonthAndDayAlt') 'None'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'OneLineMonthAndDay') 'None'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'OneLineYearMonthAndDay') 'None'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'PaddingZeroMonth') 'False'
+2022-09-30 01:26:49,887 - root - DEBUG - Loading resources for 5.1.4 'bool'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'PaddingZeroDay') 'True'
+2022-09-30 01:26:49,887 - root - DEBUG - Loading resources for 5.1.5 'bool'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'UnknownBoolean6') 'False'
+2022-09-30 01:26:49,887 - root - DEBUG - Loading resources for 5.1.6 'bool'
+2022-09-30 01:26:49,887 - root - DEBUG - INDEX (None, 'YearMonthAndDay') '{'Day': {'TopLeftX': 82, 'TopLeftY': 111, 'BottomRightX': 83, 'BottomRightY': 132, 'Alignment': 'TopLeft', 'Spacing': 3, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}, 'MonthFollowsYear': False, 'DayFollowsMonth': False, 'MonthAsWord': {'X': 133, 'Y': 108, 'ImageIndex': 12, 'ImagesCount': 12}, 'MonthAsWordChinese': {'X': 103, 'Y': 124, 'ImageIndex': 12, 'ImagesCount': 12}}'
+2022-09-30 01:26:49,887 - root - DEBUG - Loading resources for 5.1.9 '<class 'watchFaceParser.elements.gts2mini.dateElements.yearMonthAndDay.YearMonthAndDay'>'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Year') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Month') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Day') '{'TopLeftX': 82, 'TopLeftY': 111, 'BottomRightX': 83, 'BottomRightY': 132, 'Alignment': 'TopLeft', 'Spacing': 3, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}'
+2022-09-30 01:26:49,888 - root - DEBUG - Loading resources for 5.1.9.3 '<class 'watchFaceParser.elements.gts2mini.basicElements.number.Number'>'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'TopLeftX') '82'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'TopLeftY') '111'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'BottomRightX') '83'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'BottomRightY') '132'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Alignment') 'TopLeft'
+2022-09-30 01:26:49,888 - root - DEBUG - Loading resources for 5.1.9.3.5 '<class 'watchFaceParser.models.textAlignment.TextAlignment'>'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Spacing') '3'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'VerticalOffset') '0'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX ('long', 'ImageIndex') '2'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'ImagesCount') '10'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'MonthFollowsYear') 'False'
+2022-09-30 01:26:49,888 - root - DEBUG - Loading resources for 5.1.9.4 'bool'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'DayFollowsMonth') 'False'
+2022-09-30 01:26:49,888 - root - DEBUG - Loading resources for 5.1.9.5 'bool'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'MonthAsWord') '{'X': 133, 'Y': 108, 'ImageIndex': 12, 'ImagesCount': 12}'
+2022-09-30 01:26:49,888 - root - DEBUG - Loading resources for 5.1.9.6 '<class 'watchFaceParser.elements.gts2mini.basicElements.imageSet.ImageSet'>'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'X') '133'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Y') '108'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX ('long', 'ImageIndex') '12'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'ImagesCount') '12'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'MonthAsWordChinese') '{'X': 103, 'Y': 124, 'ImageIndex': 12, 'ImagesCount': 12}'
+2022-09-30 01:26:49,888 - root - DEBUG - Loading resources for 5.1.9.7 '<class 'watchFaceParser.elements.gts2mini.basicElements.imageSet.ImageSet'>'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'X') '103'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Y') '124'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX ('long', 'ImageIndex') '12'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'ImagesCount') '12'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX ('long', 'YearDataTypeImageIndex') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX ('long', 'MonthDataTypeImageIndex') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX ('long', 'DayDataTypeImageIndex') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX ('long', 'DelimiterYearImageIndex') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX ('long', 'DelimiterMonthImageIndex') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX ('long', 'DelimiterDayImageIndex') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'DelimiterYearCoordinates') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'DelimiterMonthCoordinates') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'DelimiterDayCoordinates') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'AmPm') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Weekday') '{'X': 0, 'Y': 47, 'ImageIndex': 24, 'ImagesCount': 7}'
+2022-09-30 01:26:49,888 - root - DEBUG - Loading resources for 5.4 '<class 'watchFaceParser.elements.gts2mini.basicElements.imageSet.ImageSet'>'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'X') '0'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Y') '47'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX ('long', 'ImageIndex') '24'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'ImagesCount') '7'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'WeekdayChinese') '{'X': 24, 'Y': 71, 'ImageIndex': 24, 'ImagesCount': 7}'
+2022-09-30 01:26:49,888 - root - DEBUG - Loading resources for 5.5 '<class 'watchFaceParser.elements.gts2mini.basicElements.imageSet.ImageSet'>'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'X') '24'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Y') '71'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX ('long', 'ImageIndex') '24'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'ImagesCount') '7'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'WeekdayTradChinese') '{'X': 24, 'Y': 71, 'ImageIndex': 24, 'ImagesCount': 7}'
+2022-09-30 01:26:49,888 - root - DEBUG - Loading resources for 5.6 '<class 'watchFaceParser.elements.gts2mini.basicElements.imageSet.ImageSet'>'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'X') '24'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Y') '71'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX ('long', 'ImageIndex') '24'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'ImagesCount') '7'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'WeekdayProgress') 'None'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Weather') '{'Icon': {'Images': {'X': 3, 'Y': 250, 'ImageIndex': 44, 'ImagesCount': 26}}, 'Temperature': {'Current': {'ImageNumber': {'TopLeftX': 121, 'TopLeftY': 11, 'BottomRightX': 187, 'BottomRightY': 36, 'Alignment': 'TopCenter', 'Spacing': 2, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}, 'MinusImageIndex': 71, 'SuffixImageIndexC': 70, 'NoDataImageIndex': 89}}}'
+2022-09-30 01:26:49,888 - root - DEBUG - Loading resources for 6 '<class 'watchFaceParser.elements.gts2mini.weather.Weather'>'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Icon') '{'Images': {'X': 3, 'Y': 250, 'ImageIndex': 44, 'ImagesCount': 26}}'
+2022-09-30 01:26:49,888 - root - DEBUG - Loading resources for 6.1 '<class 'watchFaceParser.elements.gts2mini.weatherElements.icon.Icon'>'
+2022-09-30 01:26:49,888 - root - DEBUG - INDEX (None, 'Images') '{'X': 3, 'Y': 250, 'ImageIndex': 44, 'ImagesCount': 26}'
+2022-09-30 01:26:49,888 - root - DEBUG - Loading resources for 6.1.2 '<class 'watchFaceParser.elements.gts2mini.basicElements.imageSet.ImageSet'>'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'X') '3'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Y') '250'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX ('long', 'ImageIndex') '44'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'ImagesCount') '26'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Temperature') '{'Current': {'ImageNumber': {'TopLeftX': 121, 'TopLeftY': 11, 'BottomRightX': 187, 'BottomRightY': 36, 'Alignment': 'TopCenter', 'Spacing': 2, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}, 'MinusImageIndex': 71, 'SuffixImageIndexC': 70, 'NoDataImageIndex': 89}}'
+2022-09-30 01:26:49,889 - root - DEBUG - Loading resources for 6.2 '<class 'watchFaceParser.elements.gts2mini.weatherElements.temperature.Temperature'>'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Current') '{'ImageNumber': {'TopLeftX': 121, 'TopLeftY': 11, 'BottomRightX': 187, 'BottomRightY': 36, 'Alignment': 'TopCenter', 'Spacing': 2, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}, 'MinusImageIndex': 71, 'SuffixImageIndexC': 70, 'NoDataImageIndex': 89}'
+2022-09-30 01:26:49,889 - root - DEBUG - Loading resources for 6.2.1 '<class 'watchFaceParser.elements.gts2mini.weatherElements.texttemperature.TextTemperature'>'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'ImageNumber') '{'TopLeftX': 121, 'TopLeftY': 11, 'BottomRightX': 187, 'BottomRightY': 36, 'Alignment': 'TopCenter', 'Spacing': 2, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}'
+2022-09-30 01:26:49,889 - root - DEBUG - Loading resources for 6.2.1.1 '<class 'watchFaceParser.elements.gts2mini.basicElements.number.Number'>'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'TopLeftX') '121'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'TopLeftY') '11'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'BottomRightX') '187'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'BottomRightY') '36'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Alignment') 'TopCenter'
+2022-09-30 01:26:49,889 - root - DEBUG - Loading resources for 6.2.1.1.5 '<class 'watchFaceParser.models.textAlignment.TextAlignment'>'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Spacing') '2'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'VerticalOffset') '0'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX ('long', 'ImageIndex') '2'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'ImagesCount') '10'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX ('long', 'MinusImageIndex') '71'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX ('long', 'SuffixImageIndexC') '70'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX ('long', 'SuffixImageIndexF') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX ('long', 'NoDataImageIndex') '89'
+2022-09-30 01:26:49,889 - root - DEBUG - Request image index 89...
+2022-09-30 01:26:49,889 - root - DEBUG - Loading image 89...
+2022-09-30 01:26:49,889 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2022-09-30 01:26:49,889 - PIL.PngImagePlugin - DEBUG - STREAM b'iCCP' 41 388
+2022-09-30 01:26:49,889 - PIL.PngImagePlugin - DEBUG - iCCP profile name b'ICC profile'
+2022-09-30 01:26:49,889 - PIL.PngImagePlugin - DEBUG - Compression method 0
+2022-09-30 01:26:49,889 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 441 6
+2022-09-30 01:26:49,889 - PIL.PngImagePlugin - DEBUG - b'bKGD' 441 6 (unknown)
+2022-09-30 01:26:49,889 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 459 9
+2022-09-30 01:26:49,889 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 480 692
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Shortcut') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'OneLine') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Lowest') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Highest') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'AirQuality') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Humidity') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'UVindex') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'StepProgress') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Status') '{'Bluetooth': {'Coordinates': {'X': 13, 'Y': 193}, 'ImageIndexOff': 72}}'
+2022-09-30 01:26:49,889 - root - DEBUG - Loading resources for 8 '<class 'watchFaceParser.elements.gts2mini.status.Status'>'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'DoNotDisturb') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Lock') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Bluetooth') '{'Coordinates': {'X': 13, 'Y': 193}, 'ImageIndexOff': 72}'
+2022-09-30 01:26:49,889 - root - DEBUG - Loading resources for 8.3 '<class 'watchFaceParser.elements.gts2mini.statusElements.switch.Switch'>'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Coordinates') '{'X': 13, 'Y': 193}'
+2022-09-30 01:26:49,889 - root - DEBUG - Loading resources for 8.3.1 '<class 'watchFaceParser.elements.gts2mini.basicElements.coordinates.Coordinates'>'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'X') '13'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Y') '193'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX ('long', 'ImageIndexOn') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX ('long', 'ImageIndexOff') '72'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Alarm') 'None'
+2022-09-30 01:26:49,889 - root - DEBUG - INDEX (None, 'Battery') '{'BatteryText': {'ImageNumber': {'TopLeftX': 188, 'TopLeftY': 11, 'BottomRightX': 269, 'BottomRightY': 36, 'Alignment': 'TopRight', 'Spacing': 2, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}, 'SuffixImageIndex': 75}}'
+2022-09-30 01:26:49,889 - root - DEBUG - Loading resources for 9 '<class 'watchFaceParser.elements.gts2mini.battery.Battery'>'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'BatteryText') '{'ImageNumber': {'TopLeftX': 188, 'TopLeftY': 11, 'BottomRightX': 269, 'BottomRightY': 36, 'Alignment': 'TopRight', 'Spacing': 2, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}, 'SuffixImageIndex': 75}'
+2022-09-30 01:26:49,890 - root - DEBUG - Loading resources for 9.1 '<class 'watchFaceParser.elements.gts2mini.basicElements.text.Text'>'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'ImageNumber') '{'TopLeftX': 188, 'TopLeftY': 11, 'BottomRightX': 269, 'BottomRightY': 36, 'Alignment': 'TopRight', 'Spacing': 2, 'VerticalOffset': 0, 'ImageIndex': 2, 'ImagesCount': 10}'
+2022-09-30 01:26:49,890 - root - DEBUG - Loading resources for 9.1.1 '<class 'watchFaceParser.elements.gts2mini.basicElements.number.Number'>'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'TopLeftX') '188'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'TopLeftY') '11'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'BottomRightX') '269'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'BottomRightY') '36'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Alignment') 'TopRight'
+2022-09-30 01:26:49,890 - root - DEBUG - Loading resources for 9.1.1.5 '<class 'watchFaceParser.models.textAlignment.TextAlignment'>'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Spacing') '2'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'VerticalOffset') '0'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX ('long', 'ImageIndex') '2'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'ImagesCount') '10'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX ('long', 'PrefixImageIndex') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX ('long', 'NoDataImageIndex') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX ('long', 'SuffixImageIndex') '75'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Icon') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Shortcut') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'ImageProgress') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'IconSetProgress') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Scale') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Icon') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Unknown10') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Animation') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'HeartProgress') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'WeekDayImages') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'CaloriesProgress') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'HumidityProgress') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Alarm') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Shortcuts') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'TimeAnalog') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'TimeDigital') '{'Hours': {'TopLeftX': 48, 'TopLeftY': 175, 'BottomRightX': 258, 'BottomRightY': 235, 'Alignment': 'TopCenter', 'Spacing': 9, 'VerticalOffset': 0, 'ImageIndex': 76, 'ImagesCount': 10}, 'PaddingZeroHours': True, 'DelimiterHoursImageIndex': 86, 'HoursFollowPosition': False, 'Time': {'Unknown1': 1, 'Minutes': {'TopLeftX': 0, 'TopLeftY': 0, 'BottomRightX': 1, 'BottomRightY': 1, 'Alignment': 'TopLeft', 'Spacing': 0, 'VerticalOffset': 0, 'ImageIndex': 76, 'ImagesCount': 10}, 'PaddingZeroMinutes': True, 'PaddingZeroSeconds': True, 'MinutesFollowHours': True, 'SecondsFollowMinutes': False}}'
+2022-09-30 01:26:49,890 - root - DEBUG - Loading resources for 21 '<class 'watchFaceParser.elements.gts2mini.timeDigital.TimeDigital'>'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Hours') '{'TopLeftX': 48, 'TopLeftY': 175, 'BottomRightX': 258, 'BottomRightY': 235, 'Alignment': 'TopCenter', 'Spacing': 9, 'VerticalOffset': 0, 'ImageIndex': 76, 'ImagesCount': 10}'
+2022-09-30 01:26:49,890 - root - DEBUG - Loading resources for 21.1 '<class 'watchFaceParser.elements.gts2mini.basicElements.number.Number'>'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'TopLeftX') '48'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'TopLeftY') '175'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'BottomRightX') '258'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'BottomRightY') '235'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Alignment') 'TopCenter'
+2022-09-30 01:26:49,890 - root - DEBUG - Loading resources for 21.1.5 '<class 'watchFaceParser.models.textAlignment.TextAlignment'>'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Spacing') '9'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'VerticalOffset') '0'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX ('long', 'ImageIndex') '76'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'ImagesCount') '10'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX ('long', 'HoursDataTypeImageIndex') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'PaddingZeroHours') 'True'
+2022-09-30 01:26:49,890 - root - DEBUG - Loading resources for 21.3 'bool'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX ('long', 'DelimiterHoursImageIndex') '86'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX ('long', 'DelimiterMinutesImageIndex') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'HoursFollowPosition') 'False'
+2022-09-30 01:26:49,890 - root - DEBUG - Loading resources for 21.6 'bool'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX ('long', 'DelimiterSecondsImageIndex') 'None'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Time') '{'Unknown1': 1, 'Minutes': {'TopLeftX': 0, 'TopLeftY': 0, 'BottomRightX': 1, 'BottomRightY': 1, 'Alignment': 'TopLeft', 'Spacing': 0, 'VerticalOffset': 0, 'ImageIndex': 76, 'ImagesCount': 10}, 'PaddingZeroMinutes': True, 'PaddingZeroSeconds': True, 'MinutesFollowHours': True, 'SecondsFollowMinutes': False}'
+2022-09-30 01:26:49,890 - root - DEBUG - Loading resources for 21.8 '<class 'watchFaceParser.elements.gts2mini.time.Time'>'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Unknown1') '1'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Minutes') '{'TopLeftX': 0, 'TopLeftY': 0, 'BottomRightX': 1, 'BottomRightY': 1, 'Alignment': 'TopLeft', 'Spacing': 0, 'VerticalOffset': 0, 'ImageIndex': 76, 'ImagesCount': 10}'
+2022-09-30 01:26:49,890 - root - DEBUG - Loading resources for 21.8.2 '<class 'watchFaceParser.elements.gts2mini.basicElements.number.Number'>'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'TopLeftX') '0'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'TopLeftY') '0'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'BottomRightX') '1'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'BottomRightY') '1'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Alignment') 'TopLeft'
+2022-09-30 01:26:49,890 - root - DEBUG - Loading resources for 21.8.2.5 '<class 'watchFaceParser.models.textAlignment.TextAlignment'>'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'Spacing') '0'
+2022-09-30 01:26:49,890 - root - DEBUG - INDEX (None, 'VerticalOffset') '0'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX ('long', 'ImageIndex') '76'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'ImagesCount') '10'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'Seconds') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'PaddingZeroMinutes') 'True'
+2022-09-30 01:26:49,891 - root - DEBUG - Loading resources for 21.8.4 'bool'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'PaddingZeroSeconds') 'True'
+2022-09-30 01:26:49,891 - root - DEBUG - Loading resources for 21.8.5 'bool'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX ('long', 'MinutesDataTypeImageIndex') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX ('long', 'SecondsDataTypeImageIndex') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'MinutesFollowHours') 'True'
+2022-09-30 01:26:49,891 - root - DEBUG - Loading resources for 21.8.8 'bool'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'SecondsFollowMinutes') 'False'
+2022-09-30 01:26:49,891 - root - DEBUG - Loading resources for 21.8.9 'bool'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'HoursDataTypeCoordinates') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'MinutesDataTypeCoordinates') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'SecondsDataTypeCoordinates') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'HourlyImages') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'PaiProgress') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'StandUpProgress') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'UviProgress') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'StressProgress') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'SPO2Progress') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'AlwaysOnDisplay') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - INDEX (None, 'ActivitySeparateDigits') 'None'
+2022-09-30 01:26:49,891 - root - DEBUG - Building parameters for watch face...
+2022-09-30 01:26:49,891 - root - DEBUG - 0.1 'DeviceId': 73
+2022-09-30 01:26:49,891 - root - DEBUG - 0 'Info'
+2022-09-30 01:26:49,891 - root - DEBUG - 2.1.1 'X': 0
+2022-09-30 01:26:49,891 - root - DEBUG - 2.1.2 'Y': 0
+2022-09-30 01:26:49,891 - root - DEBUG - 2.1.3 'ImageIndex': 0
+2022-09-30 01:26:49,891 - root - DEBUG - 2.1 'Image'
+2022-09-30 01:26:49,891 - root - DEBUG - 2.3.1 'X': 0
+2022-09-30 01:26:49,891 - root - DEBUG - 2.3.2 'Y': 0
+2022-09-30 01:26:49,891 - root - DEBUG - 2.3.3 'ImageIndex': 1
+2022-09-30 01:26:49,891 - root - DEBUG - 2.3 'Preview'
+2022-09-30 01:26:49,891 - root - DEBUG - 2.4.1 'X': 0
+2022-09-30 01:26:49,891 - root - DEBUG - 2.4.2 'Y': 0
+2022-09-30 01:26:49,891 - root - DEBUG - 2.4.3 'ImageIndex': 1
+2022-09-30 01:26:49,891 - root - DEBUG - 2.4 'PreviewTradChinese'
+2022-09-30 01:26:49,891 - root - DEBUG - 2.5.1 'X': 0
+2022-09-30 01:26:49,891 - root - DEBUG - 2.5.2 'Y': 0
+2022-09-30 01:26:49,891 - root - DEBUG - 2.5.3 'ImageIndex': 1
+2022-09-30 01:26:49,891 - root - DEBUG - 2.5 'PreviewChinese'
+2022-09-30 01:26:49,891 - root - DEBUG - 2 'Background'
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.1.1 'TopLeftX': 197
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.1.2 'TopLeftY': 319
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.1.3 'BottomRightX': 273
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.1.4 'BottomRightY': 339
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.1.5 'Alignment': 18
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.1.6 'Spacing': 2
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.1.7 'VerticalOffset': 0
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.1.8 'ImageIndex': 31
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.1.9 'ImagesCount': 10
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.1 'ImageNumber'
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.4.1 'X': 162
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.4.2 'Y': 319
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.4.3 'ImageIndex': 41
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1.4 'Icon'
+2022-09-30 01:26:49,891 - root - DEBUG - 4.1 'Steps'
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.1.1 'TopLeftX': 50
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.1.2 'TopLeftY': 11
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.1.3 'BottomRightX': 116
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.1.4 'BottomRightY': 36
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.1.5 'Alignment': 24
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.1.6 'Spacing': 1
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.1.7 'VerticalOffset': 0
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.1.8 'ImageIndex': 2
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.1.9 'ImagesCount': 10
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.1 'ImageNumber'
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.3 'NoDataImageIndex': 88
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.5.1 'X': 26
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.5.2 'Y': 11
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.5.3 'ImageIndex': 87
+2022-09-30 01:26:49,891 - root - DEBUG - 4.4.5 'Icon'
+2022-09-30 01:26:49,892 - root - DEBUG - 4.4 'HeartRate'
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.1.1 'TopLeftX': 95
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.1.2 'TopLeftY': 319
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.1.3 'BottomRightX': 144
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.1.4 'BottomRightY': 339
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.1.5 'Alignment': 18
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.1.6 'Spacing': 1
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.1.7 'VerticalOffset': 0
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.1.8 'ImageIndex': 31
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.1.9 'ImagesCount': 10
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.1 'ImageNumber'
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.3 'DecimalPointImageIndex': 42
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.5.1 'X': 57
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.5.2 'Y': 319
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.5.3 'ImageIndex': 43
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5.5 'Icon'
+2022-09-30 01:26:49,892 - root - DEBUG - 4.5 'Distance'
+2022-09-30 01:26:49,892 - root - DEBUG - 4.7 'UnknownLongValue7': 0
+2022-09-30 01:26:49,892 - root - DEBUG - 4 'Activity'
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.4 'PaddingZeroMonth': 0
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.5 'PaddingZeroDay': 1
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.6 'UnknownBoolean6': 0
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.3.1 'TopLeftX': 82
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.3.2 'TopLeftY': 111
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.3.3 'BottomRightX': 83
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.3.4 'BottomRightY': 132
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.3.5 'Alignment': 18
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.3.6 'Spacing': 3
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.3.7 'VerticalOffset': 0
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.3.8 'ImageIndex': 2
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.3.9 'ImagesCount': 10
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.3 'Day'
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.4 'MonthFollowsYear': 0
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.5 'DayFollowsMonth': 0
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.6.1 'X': 133
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.6.2 'Y': 108
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.6.3 'ImageIndex': 12
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.6.4 'ImagesCount': 12
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.6 'MonthAsWord'
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.7.1 'X': 103
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.7.2 'Y': 124
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.7.3 'ImageIndex': 12
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.7.4 'ImagesCount': 12
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9.7 'MonthAsWordChinese'
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1.9 'YearMonthAndDay'
+2022-09-30 01:26:49,892 - root - DEBUG - 5.1 'Date'
+2022-09-30 01:26:49,892 - root - DEBUG - 5.4.1 'X': 0
+2022-09-30 01:26:49,892 - root - DEBUG - 5.4.2 'Y': 47
+2022-09-30 01:26:49,892 - root - DEBUG - 5.4.3 'ImageIndex': 24
+2022-09-30 01:26:49,892 - root - DEBUG - 5.4.4 'ImagesCount': 7
+2022-09-30 01:26:49,892 - root - DEBUG - 5.4 'Weekday'
+2022-09-30 01:26:49,892 - root - DEBUG - 5.5.1 'X': 24
+2022-09-30 01:26:49,892 - root - DEBUG - 5.5.2 'Y': 71
+2022-09-30 01:26:49,892 - root - DEBUG - 5.5.3 'ImageIndex': 24
+2022-09-30 01:26:49,892 - root - DEBUG - 5.5.4 'ImagesCount': 7
+2022-09-30 01:26:49,892 - root - DEBUG - 5.5 'WeekdayChinese'
+2022-09-30 01:26:49,892 - root - DEBUG - 5.6.1 'X': 24
+2022-09-30 01:26:49,892 - root - DEBUG - 5.6.2 'Y': 71
+2022-09-30 01:26:49,892 - root - DEBUG - 5.6.3 'ImageIndex': 24
+2022-09-30 01:26:49,892 - root - DEBUG - 5.6.4 'ImagesCount': 7
+2022-09-30 01:26:49,892 - root - DEBUG - 5.6 'WeekdayTradChinese'
+2022-09-30 01:26:49,892 - root - DEBUG - 5 'DateBlock'
+2022-09-30 01:26:49,892 - root - DEBUG - 6.1.2.1 'X': 3
+2022-09-30 01:26:49,892 - root - DEBUG - 6.1.2.2 'Y': 250
+2022-09-30 01:26:49,892 - root - DEBUG - 6.1.2.3 'ImageIndex': 44
+2022-09-30 01:26:49,892 - root - DEBUG - 6.1.2.4 'ImagesCount': 26
+2022-09-30 01:26:49,892 - root - DEBUG - 6.1.2 'Images'
+2022-09-30 01:26:49,892 - root - DEBUG - 6.1 'Icon'
+2022-09-30 01:26:49,892 - root - DEBUG - 6.2.1.1.1 'TopLeftX': 121
+2022-09-30 01:26:49,892 - root - DEBUG - 6.2.1.1.2 'TopLeftY': 11
+2022-09-30 01:26:49,892 - root - DEBUG - 6.2.1.1.3 'BottomRightX': 187
+2022-09-30 01:26:49,892 - root - DEBUG - 6.2.1.1.4 'BottomRightY': 36
+2022-09-30 01:26:49,892 - root - DEBUG - 6.2.1.1.5 'Alignment': 24
+2022-09-30 01:26:49,892 - root - DEBUG - 6.2.1.1.6 'Spacing': 2
+2022-09-30 01:26:49,892 - root - DEBUG - 6.2.1.1.7 'VerticalOffset': 0
+2022-09-30 01:26:49,892 - root - DEBUG - 6.2.1.1.8 'ImageIndex': 2
+2022-09-30 01:26:49,892 - root - DEBUG - 6.2.1.1.9 'ImagesCount': 10
+2022-09-30 01:26:49,892 - root - DEBUG - 6.2.1.1 'ImageNumber'
+2022-09-30 01:26:49,892 - root - DEBUG - 6.2.1.2 'MinusImageIndex': 71
+2022-09-30 01:26:49,893 - root - DEBUG - 6.2.1.3 'SuffixImageIndexC': 70
+2022-09-30 01:26:49,893 - root - DEBUG - 6.2.1.5 'NoDataImageIndex': 89
+2022-09-30 01:26:49,893 - root - DEBUG - 6.2.1 'Current'
+2022-09-30 01:26:49,893 - root - DEBUG - 6.2 'Temperature'
+2022-09-30 01:26:49,893 - root - DEBUG - 6 'Weather'
+2022-09-30 01:26:49,893 - root - DEBUG - 8.3.1.1 'X': 13
+2022-09-30 01:26:49,893 - root - DEBUG - 8.3.1.2 'Y': 193
+2022-09-30 01:26:49,893 - root - DEBUG - 8.3.1 'Coordinates'
+2022-09-30 01:26:49,893 - root - DEBUG - 8.3.3 'ImageIndexOff': 72
+2022-09-30 01:26:49,893 - root - DEBUG - 8.3 'Bluetooth'
+2022-09-30 01:26:49,893 - root - DEBUG - 8 'Status'
+2022-09-30 01:26:49,893 - root - DEBUG - 9.1.1.1 'TopLeftX': 188
+2022-09-30 01:26:49,893 - root - DEBUG - 9.1.1.2 'TopLeftY': 11
+2022-09-30 01:26:49,893 - root - DEBUG - 9.1.1.3 'BottomRightX': 269
+2022-09-30 01:26:49,893 - root - DEBUG - 9.1.1.4 'BottomRightY': 36
+2022-09-30 01:26:49,893 - root - DEBUG - 9.1.1.5 'Alignment': 20
+2022-09-30 01:26:49,893 - root - DEBUG - 9.1.1.6 'Spacing': 2
+2022-09-30 01:26:49,893 - root - DEBUG - 9.1.1.7 'VerticalOffset': 0
+2022-09-30 01:26:49,893 - root - DEBUG - 9.1.1.8 'ImageIndex': 2
+2022-09-30 01:26:49,893 - root - DEBUG - 9.1.1.9 'ImagesCount': 10
+2022-09-30 01:26:49,893 - root - DEBUG - 9.1.1 'ImageNumber'
+2022-09-30 01:26:49,893 - root - DEBUG - 9.1.4 'SuffixImageIndex': 75
+2022-09-30 01:26:49,893 - root - DEBUG - 9.1 'BatteryText'
+2022-09-30 01:26:49,893 - root - DEBUG - 9 'Battery'
+2022-09-30 01:26:49,893 - root - DEBUG - 21.1.1 'TopLeftX': 48
+2022-09-30 01:26:49,893 - root - DEBUG - 21.1.2 'TopLeftY': 175
+2022-09-30 01:26:49,893 - root - DEBUG - 21.1.3 'BottomRightX': 258
+2022-09-30 01:26:49,893 - root - DEBUG - 21.1.4 'BottomRightY': 235
+2022-09-30 01:26:49,893 - root - DEBUG - 21.1.5 'Alignment': 24
+2022-09-30 01:26:49,893 - root - DEBUG - 21.1.6 'Spacing': 9
+2022-09-30 01:26:49,893 - root - DEBUG - 21.1.7 'VerticalOffset': 0
+2022-09-30 01:26:49,893 - root - DEBUG - 21.1.8 'ImageIndex': 76
+2022-09-30 01:26:49,893 - root - DEBUG - 21.1.9 'ImagesCount': 10
+2022-09-30 01:26:49,893 - root - DEBUG - 21.1 'Hours'
+2022-09-30 01:26:49,893 - root - DEBUG - 21.3 'PaddingZeroHours': 1
+2022-09-30 01:26:49,893 - root - DEBUG - 21.4 'DelimiterHoursImageIndex': 86
+2022-09-30 01:26:49,893 - root - DEBUG - 21.6 'HoursFollowPosition': 0
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.1 'Unknown1': 1
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.2.1 'TopLeftX': 0
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.2.2 'TopLeftY': 0
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.2.3 'BottomRightX': 1
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.2.4 'BottomRightY': 1
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.2.5 'Alignment': 18
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.2.6 'Spacing': 0
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.2.7 'VerticalOffset': 0
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.2.8 'ImageIndex': 76
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.2.9 'ImagesCount': 10
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.2 'Minutes'
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.4 'PaddingZeroMinutes': 1
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.5 'PaddingZeroSeconds': 1
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.8 'MinutesFollowHours': 1
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8.9 'SecondsFollowMinutes': 0
+2022-09-30 01:26:49,893 - root - DEBUG - 21.8 'Time'
+2022-09-30 01:26:49,893 - root - DEBUG - 21 'TimeDigital'
+2022-09-30 01:26:49,893 - root - DEBUG - Generating previews...
+2022-09-30 01:26:49,893 - root - DEBUG - Generating states done...
+2022-09-30 01:26:49,894 - root - DEBUG - >>>>>>>>>>>> 2 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53c7ee0>
+2022-09-30 01:26:49,895 - root - DEBUG - >>>>>>>>>>>> 4 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53dd180>
+2022-09-30 01:26:49,895 - root - DEBUG - >>>>>>>>>>>> 5 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53de1a0>
+2022-09-30 01:26:49,896 - root - DEBUG - >>>>>>>>>>>> 6 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53de9e0>
+2022-09-30 01:26:49,896 - root - DEBUG - >>>>>>>>>>>> 8 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53dec20>
+2022-09-30 01:26:49,897 - root - DEBUG - >>>>>>>>>>>> 9 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53df100>
+2022-09-30 01:26:49,897 - root - DEBUG - >>>>>>>>>>>> 21 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53dfc40>
+2022-09-30 01:26:49,899 - root - DEBUG - Generating static preview gen done...
+2022-09-30 01:26:49,910 - root - DEBUG - Generating static preview save done...
+2022-09-30 01:26:49,910 - root - DEBUG - Generating anim preview gen done...
+2022-09-30 01:26:49,910 - root - DEBUG - >>>>>>>>>>>> 2 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53c7ee0>
+2022-09-30 01:26:49,910 - root - DEBUG - >>>>>>>>>>>> 4 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53dd180>
+2022-09-30 01:26:49,910 - root - DEBUG - >>>>>>>>>>>> 5 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53de1a0>
+2022-09-30 01:26:49,910 - root - DEBUG - >>>>>>>>>>>> 6 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53de9e0>
+2022-09-30 01:26:49,910 - root - DEBUG - >>>>>>>>>>>> 8 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53dec20>
+2022-09-30 01:26:49,910 - root - DEBUG - >>>>>>>>>>>> 9 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53df100>
+2022-09-30 01:26:49,910 - root - DEBUG - >>>>>>>>>>>> 21 <watchFaceParser.models.parameter.Parameter object at 0x7fbac53dfc40>
+2022-09-30 01:26:49,911 - root - ERROR - Preview Generate Error...
+2022-09-30 01:26:49,911 - root - ERROR - '<' not supported between instances of 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "/home/vodka/watches/py_amazfit_tools/program.py", line 349, in generatePreviews
+    for previewImage in previewImages:
+  File "/home/vodka/watches/py_amazfit_tools/watchFaceParser/previewGenerator.py", line 15, in createAnimation
+    image = PreviewGenerator.createFrame(previewWatchFace, images, watchState)
+  File "/home/vodka/watches/py_amazfit_tools/watchFaceParser/previewGenerator.py", line 37, in createFrame
+    watchFace.draw3(graphics, resources, state)
+  File "/home/vodka/watches/py_amazfit_tools/watchFaceParser/models/gts2mini/elements/watchFace.py", line 35, in draw3
+    super(WatchFace, self).draw3(drawer, images, state)
+  File "/home/vodka/watches/py_amazfit_tools/watchFaceParser/models/gts2mini/elements/basic/containerElement.py", line 12, in draw3
+    element.draw3(drawer, images, state)
+  File "/home/vodka/watches/py_amazfit_tools/watchFaceParser/models/gts2mini/elements/basic/containerElement.py", line 12, in draw3
+    element.draw3(drawer, images, state)
+  File "/home/vodka/watches/py_amazfit_tools/watchFaceParser/models/gts2mini/elements/weather/temperatureElement.py", line 19, in draw3
+    self._current.draw4(drawer, resources, state.getCurrentTemperature())
+  File "/home/vodka/watches/py_amazfit_tools/watchFaceParser/models/gts2mini/elements/weather/weatherTextElement.py", line 17, in draw4
+    self._image_number.draw4(drawer,
+  File "/home/vodka/watches/py_amazfit_tools/watchFaceParser/models/gts2mini/elements/common/numberElement.py", line 146, in draw4
+    ar = self.getImagesForNumber(images, number, minimum_digits,
+  File "/home/vodka/watches/py_amazfit_tools/watchFaceParser/models/gts2mini/elements/common/numberElement.py", line 169, in getImagesForNumber
+    if number < 0:
+TypeError: '<' not supported between instances of 'NoneType' and 'int'
+2022-09-30 01:26:49,911 - root - DEBUG - Writing watch face to '../gtsmini_5922/gtsmini_5922_packed.bin'
+2022-09-30 01:26:49,911 - root - DEBUG - Encoding parameters...
+2022-09-30 01:26:49,911 - root - DEBUG - Parameter: 2
+2022-09-30 01:26:49,911 - root - DEBUG - 1 (0A):
+2022-09-30 01:26:49,911 - root - DEBUG - 	1 (08): 0 (00)
+2022-09-30 01:26:49,911 - root - DEBUG - 	2 (10): 0 (00)
+2022-09-30 01:26:49,911 - root - DEBUG - 	3 (18): 0 (00)
+2022-09-30 01:26:49,911 - root - DEBUG - 3 (1A):
+2022-09-30 01:26:49,911 - root - DEBUG - 	1 (08): 0 (00)
+2022-09-30 01:26:49,911 - root - DEBUG - 	2 (10): 0 (00)
+2022-09-30 01:26:49,911 - root - DEBUG - 	3 (18): 1 (01)
+2022-09-30 01:26:49,911 - root - DEBUG - 4 (22):
+2022-09-30 01:26:49,911 - root - DEBUG - 	1 (08): 0 (00)
+2022-09-30 01:26:49,911 - root - DEBUG - 	2 (10): 0 (00)
+2022-09-30 01:26:49,911 - root - DEBUG - 	3 (18): 1 (01)
+2022-09-30 01:26:49,912 - root - DEBUG - 5 (2A):
+2022-09-30 01:26:49,912 - root - DEBUG - 	1 (08): 0 (00)
+2022-09-30 01:26:49,912 - root - DEBUG - 	2 (10): 0 (00)
+2022-09-30 01:26:49,912 - root - DEBUG - 	3 (18): 1 (01)
+2022-09-30 01:26:49,912 - root - DEBUG - Parameter: 4
+2022-09-30 01:26:49,912 - root - DEBUG - 1 (0A):
+2022-09-30 01:26:49,912 - root - DEBUG - 	1 (0A):
+2022-09-30 01:26:49,912 - root - DEBUG - 		1 (08): 197 (C5)
+2022-09-30 01:26:49,912 - root - DEBUG - 		2 (10): 319 (13F)
+2022-09-30 01:26:49,912 - root - DEBUG - 		3 (18): 273 (111)
+2022-09-30 01:26:49,912 - root - DEBUG - 		4 (20): 339 (153)
+2022-09-30 01:26:49,912 - root - DEBUG - 		5 (28): 18 (12)
+2022-09-30 01:26:49,912 - root - DEBUG - 		6 (30): 2 (02)
+2022-09-30 01:26:49,912 - root - DEBUG - 		7 (38): 0 (00)
+2022-09-30 01:26:49,912 - root - DEBUG - 		8 (40): 31 (1F)
+2022-09-30 01:26:49,912 - root - DEBUG - 		9 (48): 10 (0A)
+2022-09-30 01:26:49,912 - root - DEBUG - 	4 (22):
+2022-09-30 01:26:49,912 - root - DEBUG - 		1 (08): 162 (A2)
+2022-09-30 01:26:49,912 - root - DEBUG - 		2 (10): 319 (13F)
+2022-09-30 01:26:49,912 - root - DEBUG - 		3 (18): 41 (29)
+2022-09-30 01:26:49,912 - root - DEBUG - 4 (22):
+2022-09-30 01:26:49,912 - root - DEBUG - 	1 (0A):
+2022-09-30 01:26:49,912 - root - DEBUG - 		1 (08): 50 (32)
+2022-09-30 01:26:49,912 - root - DEBUG - 		2 (10): 11 (0B)
+2022-09-30 01:26:49,912 - root - DEBUG - 		3 (18): 116 (74)
+2022-09-30 01:26:49,912 - root - DEBUG - 		4 (20): 36 (24)
+2022-09-30 01:26:49,912 - root - DEBUG - 		5 (28): 24 (18)
+2022-09-30 01:26:49,912 - root - DEBUG - 		6 (30): 1 (01)
+2022-09-30 01:26:49,912 - root - DEBUG - 		7 (38): 0 (00)
+2022-09-30 01:26:49,912 - root - DEBUG - 		8 (40): 2 (02)
+2022-09-30 01:26:49,912 - root - DEBUG - 		9 (48): 10 (0A)
+2022-09-30 01:26:49,912 - root - DEBUG - 	3 (18): 88 (58)
+2022-09-30 01:26:49,912 - root - DEBUG - 	5 (2A):
+2022-09-30 01:26:49,912 - root - DEBUG - 		1 (08): 26 (1A)
+2022-09-30 01:26:49,912 - root - DEBUG - 		2 (10): 11 (0B)
+2022-09-30 01:26:49,912 - root - DEBUG - 		3 (18): 87 (57)
+2022-09-30 01:26:49,912 - root - DEBUG - 5 (2A):
+2022-09-30 01:26:49,912 - root - DEBUG - 	1 (0A):
+2022-09-30 01:26:49,912 - root - DEBUG - 		1 (08): 95 (5F)
+2022-09-30 01:26:49,912 - root - DEBUG - 		2 (10): 319 (13F)
+2022-09-30 01:26:49,912 - root - DEBUG - 		3 (18): 144 (90)
+2022-09-30 01:26:49,912 - root - DEBUG - 		4 (20): 339 (153)
+2022-09-30 01:26:49,912 - root - DEBUG - 		5 (28): 18 (12)
+2022-09-30 01:26:49,912 - root - DEBUG - 		6 (30): 1 (01)
+2022-09-30 01:26:49,912 - root - DEBUG - 		7 (38): 0 (00)
+2022-09-30 01:26:49,912 - root - DEBUG - 		8 (40): 31 (1F)
+2022-09-30 01:26:49,912 - root - DEBUG - 		9 (48): 10 (0A)
+2022-09-30 01:26:49,912 - root - DEBUG - 	3 (18): 42 (2A)
+2022-09-30 01:26:49,912 - root - DEBUG - 	5 (2A):
+2022-09-30 01:26:49,912 - root - DEBUG - 		1 (08): 57 (39)
+2022-09-30 01:26:49,912 - root - DEBUG - 		2 (10): 319 (13F)
+2022-09-30 01:26:49,912 - root - DEBUG - 		3 (18): 43 (2B)
+2022-09-30 01:26:49,912 - root - DEBUG - 7 (38): 0 (00)
+2022-09-30 01:26:49,912 - root - DEBUG - Parameter: 5
+2022-09-30 01:26:49,912 - root - DEBUG - 1 (0A):
+2022-09-30 01:26:49,912 - root - DEBUG - 	4 (20): 0 (00)
+2022-09-30 01:26:49,912 - root - DEBUG - 	5 (28): 1 (01)
+2022-09-30 01:26:49,912 - root - DEBUG - 	6 (30): 0 (00)
+2022-09-30 01:26:49,912 - root - DEBUG - 	9 (4A):
+2022-09-30 01:26:49,912 - root - DEBUG - 		3 (1A):
+2022-09-30 01:26:49,912 - root - DEBUG - 			1 (08): 82 (52)
+2022-09-30 01:26:49,912 - root - DEBUG - 			2 (10): 111 (6F)
+2022-09-30 01:26:49,912 - root - DEBUG - 			3 (18): 83 (53)
+2022-09-30 01:26:49,912 - root - DEBUG - 			4 (20): 132 (84)
+2022-09-30 01:26:49,912 - root - DEBUG - 			5 (28): 18 (12)
+2022-09-30 01:26:49,912 - root - DEBUG - 			6 (30): 3 (03)
+2022-09-30 01:26:49,912 - root - DEBUG - 			7 (38): 0 (00)
+2022-09-30 01:26:49,912 - root - DEBUG - 			8 (40): 2 (02)
+2022-09-30 01:26:49,912 - root - DEBUG - 			9 (48): 10 (0A)
+2022-09-30 01:26:49,912 - root - DEBUG - 		4 (20): 0 (00)
+2022-09-30 01:26:49,912 - root - DEBUG - 		5 (28): 0 (00)
+2022-09-30 01:26:49,912 - root - DEBUG - 		6 (32):
+2022-09-30 01:26:49,912 - root - DEBUG - 			1 (08): 133 (85)
+2022-09-30 01:26:49,912 - root - DEBUG - 			2 (10): 108 (6C)
+2022-09-30 01:26:49,913 - root - DEBUG - 			3 (18): 12 (0C)
+2022-09-30 01:26:49,913 - root - DEBUG - 			4 (20): 12 (0C)
+2022-09-30 01:26:49,913 - root - DEBUG - 		7 (3A):
+2022-09-30 01:26:49,913 - root - DEBUG - 			1 (08): 103 (67)
+2022-09-30 01:26:49,913 - root - DEBUG - 			2 (10): 124 (7C)
+2022-09-30 01:26:49,913 - root - DEBUG - 			3 (18): 12 (0C)
+2022-09-30 01:26:49,913 - root - DEBUG - 			4 (20): 12 (0C)
+2022-09-30 01:26:49,913 - root - DEBUG - 4 (22):
+2022-09-30 01:26:49,913 - root - DEBUG - 	1 (08): 0 (00)
+2022-09-30 01:26:49,913 - root - DEBUG - 	2 (10): 47 (2F)
+2022-09-30 01:26:49,913 - root - DEBUG - 	3 (18): 24 (18)
+2022-09-30 01:26:49,913 - root - DEBUG - 	4 (20): 7 (07)
+2022-09-30 01:26:49,913 - root - DEBUG - 5 (2A):
+2022-09-30 01:26:49,913 - root - DEBUG - 	1 (08): 24 (18)
+2022-09-30 01:26:49,913 - root - DEBUG - 	2 (10): 71 (47)
+2022-09-30 01:26:49,913 - root - DEBUG - 	3 (18): 24 (18)
+2022-09-30 01:26:49,913 - root - DEBUG - 	4 (20): 7 (07)
+2022-09-30 01:26:49,913 - root - DEBUG - 6 (32):
+2022-09-30 01:26:49,913 - root - DEBUG - 	1 (08): 24 (18)
+2022-09-30 01:26:49,913 - root - DEBUG - 	2 (10): 71 (47)
+2022-09-30 01:26:49,913 - root - DEBUG - 	3 (18): 24 (18)
+2022-09-30 01:26:49,913 - root - DEBUG - 	4 (20): 7 (07)
+2022-09-30 01:26:49,913 - root - DEBUG - Parameter: 6
+2022-09-30 01:26:49,913 - root - DEBUG - 1 (0A):
+2022-09-30 01:26:49,913 - root - DEBUG - 	2 (12):
+2022-09-30 01:26:49,913 - root - DEBUG - 		1 (08): 3 (03)
+2022-09-30 01:26:49,913 - root - DEBUG - 		2 (10): 250 (FA)
+2022-09-30 01:26:49,913 - root - DEBUG - 		3 (18): 44 (2C)
+2022-09-30 01:26:49,913 - root - DEBUG - 		4 (20): 26 (1A)
+2022-09-30 01:26:49,913 - root - DEBUG - 2 (12):
+2022-09-30 01:26:49,913 - root - DEBUG - 	1 (0A):
+2022-09-30 01:26:49,913 - root - DEBUG - 		1 (0A):
+2022-09-30 01:26:49,913 - root - DEBUG - 			1 (08): 121 (79)
+2022-09-30 01:26:49,913 - root - DEBUG - 			2 (10): 11 (0B)
+2022-09-30 01:26:49,913 - root - DEBUG - 			3 (18): 187 (BB)
+2022-09-30 01:26:49,913 - root - DEBUG - 			4 (20): 36 (24)
+2022-09-30 01:26:49,913 - root - DEBUG - 			5 (28): 24 (18)
+2022-09-30 01:26:49,913 - root - DEBUG - 			6 (30): 2 (02)
+2022-09-30 01:26:49,913 - root - DEBUG - 			7 (38): 0 (00)
+2022-09-30 01:26:49,913 - root - DEBUG - 			8 (40): 2 (02)
+2022-09-30 01:26:49,913 - root - DEBUG - 			9 (48): 10 (0A)
+2022-09-30 01:26:49,913 - root - DEBUG - 		2 (10): 71 (47)
+2022-09-30 01:26:49,913 - root - DEBUG - 		3 (18): 70 (46)
+2022-09-30 01:26:49,913 - root - DEBUG - 		5 (28): 89 (59)
+2022-09-30 01:26:49,913 - root - DEBUG - Parameter: 8
+2022-09-30 01:26:49,913 - root - DEBUG - 3 (1A):
+2022-09-30 01:26:49,913 - root - DEBUG - 	1 (0A):
+2022-09-30 01:26:49,913 - root - DEBUG - 		1 (08): 13 (0D)
+2022-09-30 01:26:49,913 - root - DEBUG - 		2 (10): 193 (C1)
+2022-09-30 01:26:49,913 - root - DEBUG - 	3 (18): 72 (48)
+2022-09-30 01:26:49,913 - root - DEBUG - Parameter: 9
+2022-09-30 01:26:49,913 - root - DEBUG - 1 (0A):
+2022-09-30 01:26:49,913 - root - DEBUG - 	1 (0A):
+2022-09-30 01:26:49,913 - root - DEBUG - 		1 (08): 188 (BC)
+2022-09-30 01:26:49,913 - root - DEBUG - 		2 (10): 11 (0B)
+2022-09-30 01:26:49,913 - root - DEBUG - 		3 (18): 269 (10D)
+2022-09-30 01:26:49,913 - root - DEBUG - 		4 (20): 36 (24)
+2022-09-30 01:26:49,913 - root - DEBUG - 		5 (28): 20 (14)
+2022-09-30 01:26:49,913 - root - DEBUG - 		6 (30): 2 (02)
+2022-09-30 01:26:49,913 - root - DEBUG - 		7 (38): 0 (00)
+2022-09-30 01:26:49,913 - root - DEBUG - 		8 (40): 2 (02)
+2022-09-30 01:26:49,913 - root - DEBUG - 		9 (48): 10 (0A)
+2022-09-30 01:26:49,913 - root - DEBUG - 	4 (20): 75 (4B)
+2022-09-30 01:26:49,913 - root - DEBUG - Parameter: 21
+2022-09-30 01:26:49,913 - root - DEBUG - 1 (0A):
+2022-09-30 01:26:49,913 - root - DEBUG - 	1 (08): 48 (30)
+2022-09-30 01:26:49,913 - root - DEBUG - 	2 (10): 175 (AF)
+2022-09-30 01:26:49,913 - root - DEBUG - 	3 (18): 258 (102)
+2022-09-30 01:26:49,913 - root - DEBUG - 	4 (20): 235 (EB)
+2022-09-30 01:26:49,913 - root - DEBUG - 	5 (28): 24 (18)
+2022-09-30 01:26:49,913 - root - DEBUG - 	6 (30): 9 (09)
+2022-09-30 01:26:49,913 - root - DEBUG - 	7 (38): 0 (00)
+2022-09-30 01:26:49,913 - root - DEBUG - 	8 (40): 76 (4C)
+2022-09-30 01:26:49,913 - root - DEBUG - 	9 (48): 10 (0A)
+2022-09-30 01:26:49,913 - root - DEBUG - 3 (18): 1 (01)
+2022-09-30 01:26:49,913 - root - DEBUG - 4 (20): 86 (56)
+2022-09-30 01:26:49,913 - root - DEBUG - 6 (30): 0 (00)
+2022-09-30 01:26:49,913 - root - DEBUG - 8 (42):
+2022-09-30 01:26:49,913 - root - DEBUG - 	1 (08): 1 (01)
+2022-09-30 01:26:49,913 - root - DEBUG - 	2 (12):
+2022-09-30 01:26:49,914 - root - DEBUG - 		1 (08): 0 (00)
+2022-09-30 01:26:49,914 - root - DEBUG - 		2 (10): 0 (00)
+2022-09-30 01:26:49,914 - root - DEBUG - 		3 (18): 1 (01)
+2022-09-30 01:26:49,914 - root - DEBUG - 		4 (20): 1 (01)
+2022-09-30 01:26:49,914 - root - DEBUG - 		5 (28): 18 (12)
+2022-09-30 01:26:49,914 - root - DEBUG - 		6 (30): 0 (00)
+2022-09-30 01:26:49,914 - root - DEBUG - 		7 (38): 0 (00)
+2022-09-30 01:26:49,914 - root - DEBUG - 		8 (40): 76 (4C)
+2022-09-30 01:26:49,914 - root - DEBUG - 		9 (48): 10 (0A)
+2022-09-30 01:26:49,914 - root - DEBUG - 	4 (20): 1 (01)
+2022-09-30 01:26:49,914 - root - DEBUG - 	5 (28): 1 (01)
+2022-09-30 01:26:49,914 - root - DEBUG - 	8 (40): 1 (01)
+2022-09-30 01:26:49,914 - root - DEBUG - 	9 (48): 0 (00)
+2022-09-30 01:26:49,914 - root - DEBUG - Encoding offsets and lengths...
+2022-09-30 01:26:49,914 - root - DEBUG - 1 (0A):
+2022-09-30 01:26:49,914 - root - DEBUG - 	1 (08): 366 (16E)
+2022-09-30 01:26:49,914 - root - DEBUG - 	2 (10): 90 (5A)
+2022-09-30 01:26:49,914 - root - DEBUG - 2 (12):
+2022-09-30 01:26:49,914 - root - DEBUG - 	1 (08): 0 (00)
+2022-09-30 01:26:49,914 - root - DEBUG - 	2 (10): 32 (20)
+2022-09-30 01:26:49,914 - root - DEBUG - 4 (22):
+2022-09-30 01:26:49,914 - root - DEBUG - 	1 (08): 32 (20)
+2022-09-30 01:26:49,914 - root - DEBUG - 	2 (10): 106 (6A)
+2022-09-30 01:26:49,914 - root - DEBUG - 5 (2A):
+2022-09-30 01:26:49,914 - root - DEBUG - 	1 (08): 138 (8A)
+2022-09-30 01:26:49,914 - root - DEBUG - 	2 (10): 86 (56)
+2022-09-30 01:26:49,914 - root - DEBUG - 6 (32):
+2022-09-30 01:26:49,914 - root - DEBUG - 	1 (08): 224 (E0)
+2022-09-30 01:26:49,914 - root - DEBUG - 	2 (10): 44 (2C)
+2022-09-30 01:26:49,914 - root - DEBUG - 8 (42):
+2022-09-30 01:26:49,914 - root - DEBUG - 	1 (08): 268 (10C)
+2022-09-30 01:26:49,914 - root - DEBUG - 	2 (10): 11 (0B)
+2022-09-30 01:26:49,914 - root - DEBUG - 9 (4A):
+2022-09-30 01:26:49,914 - root - DEBUG - 	1 (08): 279 (117)
+2022-09-30 01:26:49,914 - root - DEBUG - 	2 (10): 26 (1A)
+2022-09-30 01:26:49,914 - root - DEBUG - 21 (AA):
+2022-09-30 01:26:49,914 - root - DEBUG - 	1 (08): 305 (131)
+2022-09-30 01:26:49,914 - root - DEBUG - 	2 (10): 61 (3D)
+2022-09-30 01:26:49,914 - root - DEBUG - Writing header...
+2022-09-30 01:26:49,914 - root - DEBUG - Writing parameters offsets and lengths...
+2022-09-30 01:26:49,914 - root - DEBUG - Writing parameters...
+2022-09-30 01:26:49,914 - root - DEBUG - Writing images...
+2022-09-30 01:26:49,914 - root - DEBUG - Resource 0 offset is 0...
+2022-09-30 01:26:49,914 - root - DEBUG - Encoding resource 0...
+2022-09-30 01:26:49,922 - root - DEBUG -  hasHalfAlpha: False, has_transparency: False
+2022-09-30 01:26:49,922 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,922 - root - DEBUG - Width: 306, Height: 354, RowLength: 612
+2022-09-30 01:26:49,922 - root - DEBUG - BPP: 16
+2022-09-30 01:26:49,922 - root - DEBUG - Writing image mini 16 bit/pixel...
+2022-09-30 01:26:49,960 - root - DEBUG - Resource 1 offset is 216664...
+2022-09-30 01:26:49,960 - root - DEBUG - Encoding resource 1...
+2022-09-30 01:26:49,963 - root - DEBUG -  hasHalfAlpha: False, has_transparency: False
+2022-09-30 01:26:49,963 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,963 - root - DEBUG - Width: 210, Height: 242, RowLength: 420
+2022-09-30 01:26:49,963 - root - DEBUG - BPP: 16
+2022-09-30 01:26:49,963 - root - DEBUG - Writing image mini 16 bit/pixel...
+2022-09-30 01:26:49,982 - root - DEBUG - Resource 2 offset is 318320...
+2022-09-30 01:26:49,982 - root - DEBUG - Encoding resource 2...
+2022-09-30 01:26:49,982 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:49,982 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:49,982 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,982 - root - DEBUG - Width: 18, Height: 25, RowLength: 36
+2022-09-30 01:26:49,982 - root - DEBUG - BPP: 16, DataSize: 716
+2022-09-30 01:26:49,983 - root - DEBUG - Resource 3 offset is 319052...
+2022-09-30 01:26:49,983 - root - DEBUG - Encoding resource 3...
+2022-09-30 01:26:49,983 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:49,983 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:49,983 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,983 - root - DEBUG - Width: 18, Height: 25, RowLength: 36
+2022-09-30 01:26:49,983 - root - DEBUG - BPP: 16, DataSize: 400
+2022-09-30 01:26:49,983 - root - DEBUG - Resource 4 offset is 319468...
+2022-09-30 01:26:49,983 - root - DEBUG - Encoding resource 4...
+2022-09-30 01:26:49,983 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:49,983 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:49,983 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,983 - root - DEBUG - Width: 18, Height: 25, RowLength: 36
+2022-09-30 01:26:49,983 - root - DEBUG - BPP: 16, DataSize: 640
+2022-09-30 01:26:49,983 - root - DEBUG - Resource 5 offset is 320124...
+2022-09-30 01:26:49,983 - root - DEBUG - Encoding resource 5...
+2022-09-30 01:26:49,983 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:49,983 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:49,983 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,983 - root - DEBUG - Width: 18, Height: 25, RowLength: 36
+2022-09-30 01:26:49,983 - root - DEBUG - BPP: 16, DataSize: 660
+2022-09-30 01:26:49,983 - root - DEBUG - Resource 6 offset is 320800...
+2022-09-30 01:26:49,983 - root - DEBUG - Encoding resource 6...
+2022-09-30 01:26:49,983 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:49,983 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:49,984 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,984 - root - DEBUG - Width: 18, Height: 25, RowLength: 36
+2022-09-30 01:26:49,984 - root - DEBUG - BPP: 16, DataSize: 608
+2022-09-30 01:26:49,984 - root - DEBUG - Resource 7 offset is 321424...
+2022-09-30 01:26:49,984 - root - DEBUG - Encoding resource 7...
+2022-09-30 01:26:49,984 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:49,984 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:49,984 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,984 - root - DEBUG - Width: 18, Height: 25, RowLength: 36
+2022-09-30 01:26:49,984 - root - DEBUG - BPP: 16, DataSize: 668
+2022-09-30 01:26:49,984 - root - DEBUG - Resource 8 offset is 322108...
+2022-09-30 01:26:49,984 - root - DEBUG - Encoding resource 8...
+2022-09-30 01:26:49,984 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:49,984 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:49,984 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,984 - root - DEBUG - Width: 18, Height: 25, RowLength: 36
+2022-09-30 01:26:49,984 - root - DEBUG - BPP: 16, DataSize: 724
+2022-09-30 01:26:49,984 - root - DEBUG - Resource 9 offset is 322848...
+2022-09-30 01:26:49,984 - root - DEBUG - Encoding resource 9...
+2022-09-30 01:26:49,984 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:49,984 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:49,985 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,985 - root - DEBUG - Width: 18, Height: 25, RowLength: 36
+2022-09-30 01:26:49,985 - root - DEBUG - BPP: 16, DataSize: 494
+2022-09-30 01:26:49,985 - root - DEBUG - Resource 10 offset is 323358...
+2022-09-30 01:26:49,985 - root - DEBUG - Encoding resource 10...
+2022-09-30 01:26:49,985 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:49,985 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:49,985 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,985 - root - DEBUG - Width: 18, Height: 25, RowLength: 36
+2022-09-30 01:26:49,985 - root - DEBUG - BPP: 16, DataSize: 750
+2022-09-30 01:26:49,985 - root - DEBUG - Resource 11 offset is 324124...
+2022-09-30 01:26:49,985 - root - DEBUG - Encoding resource 11...
+2022-09-30 01:26:49,985 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:49,985 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:49,985 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,985 - root - DEBUG - Width: 18, Height: 25, RowLength: 36
+2022-09-30 01:26:49,985 - root - DEBUG - BPP: 16, DataSize: 724
+2022-09-30 01:26:49,985 - root - DEBUG - Resource 12 offset is 324864...
+2022-09-30 01:26:49,985 - root - DEBUG - Encoding resource 12...
+2022-09-30 01:26:49,985 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:49,985 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,985 - root - DEBUG - Width: 117, Height: 30, RowLength: 351
+2022-09-30 01:26:49,985 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:49,985 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:49,987 - root - DEBUG - Resource 13 offset is 335410...
+2022-09-30 01:26:49,987 - root - DEBUG - Encoding resource 13...
+2022-09-30 01:26:49,987 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:49,987 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,987 - root - DEBUG - Width: 117, Height: 30, RowLength: 351
+2022-09-30 01:26:49,987 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:49,987 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:49,989 - root - DEBUG - Resource 14 offset is 345956...
+2022-09-30 01:26:49,989 - root - DEBUG - Encoding resource 14...
+2022-09-30 01:26:49,989 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:49,989 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,989 - root - DEBUG - Width: 117, Height: 30, RowLength: 351
+2022-09-30 01:26:49,989 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:49,989 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:49,991 - root - DEBUG - Resource 15 offset is 356502...
+2022-09-30 01:26:49,991 - root - DEBUG - Encoding resource 15...
+2022-09-30 01:26:49,991 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:49,991 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,991 - root - DEBUG - Width: 117, Height: 30, RowLength: 351
+2022-09-30 01:26:49,991 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:49,991 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:49,993 - root - DEBUG - Resource 16 offset is 367048...
+2022-09-30 01:26:49,993 - root - DEBUG - Encoding resource 16...
+2022-09-30 01:26:49,993 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:49,993 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,993 - root - DEBUG - Width: 117, Height: 30, RowLength: 351
+2022-09-30 01:26:49,993 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:49,993 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:49,994 - root - DEBUG - Resource 17 offset is 377594...
+2022-09-30 01:26:49,995 - root - DEBUG - Encoding resource 17...
+2022-09-30 01:26:49,995 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:49,995 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,995 - root - DEBUG - Width: 117, Height: 30, RowLength: 351
+2022-09-30 01:26:49,995 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:49,995 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:49,996 - root - DEBUG - Resource 18 offset is 388140...
+2022-09-30 01:26:49,996 - root - DEBUG - Encoding resource 18...
+2022-09-30 01:26:49,996 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:49,996 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,996 - root - DEBUG - Width: 117, Height: 30, RowLength: 351
+2022-09-30 01:26:49,996 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:49,996 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:49,998 - root - DEBUG - Resource 19 offset is 398686...
+2022-09-30 01:26:49,998 - root - DEBUG - Encoding resource 19...
+2022-09-30 01:26:49,998 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:49,998 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:49,998 - root - DEBUG - Width: 117, Height: 30, RowLength: 351
+2022-09-30 01:26:49,998 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:49,998 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:50,000 - root - DEBUG - Resource 20 offset is 409232...
+2022-09-30 01:26:50,000 - root - DEBUG - Encoding resource 20...
+2022-09-30 01:26:50,000 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:50,000 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,000 - root - DEBUG - Width: 117, Height: 30, RowLength: 351
+2022-09-30 01:26:50,000 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:50,000 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:50,002 - root - DEBUG - Resource 21 offset is 419778...
+2022-09-30 01:26:50,002 - root - DEBUG - Encoding resource 21...
+2022-09-30 01:26:50,002 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:50,002 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,002 - root - DEBUG - Width: 117, Height: 30, RowLength: 351
+2022-09-30 01:26:50,002 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:50,002 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:50,004 - root - DEBUG - Resource 22 offset is 430324...
+2022-09-30 01:26:50,004 - root - DEBUG - Encoding resource 22...
+2022-09-30 01:26:50,004 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:50,004 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,004 - root - DEBUG - Width: 117, Height: 30, RowLength: 351
+2022-09-30 01:26:50,004 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:50,004 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:50,005 - root - DEBUG - Resource 23 offset is 440870...
+2022-09-30 01:26:50,005 - root - DEBUG - Encoding resource 23...
+2022-09-30 01:26:50,006 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:50,006 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,006 - root - DEBUG - Width: 117, Height: 30, RowLength: 351
+2022-09-30 01:26:50,006 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:50,006 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:50,007 - root - DEBUG - Resource 24 offset is 451416...
+2022-09-30 01:26:50,007 - root - DEBUG - Encoding resource 24...
+2022-09-30 01:26:50,008 - root - DEBUG -  hasHalfAlpha: False, has_transparency: False
+2022-09-30 01:26:50,008 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,008 - root - DEBUG - Width: 306, Height: 30, RowLength: 612
+2022-09-30 01:26:50,008 - root - DEBUG - BPP: 16
+2022-09-30 01:26:50,008 - root - DEBUG - Writing image mini 16 bit/pixel...
+2022-09-30 01:26:50,012 - root - DEBUG - Resource 25 offset is 469792...
+2022-09-30 01:26:50,012 - root - DEBUG - Encoding resource 25...
+2022-09-30 01:26:50,012 - root - DEBUG -  hasHalfAlpha: False, has_transparency: False
+2022-09-30 01:26:50,012 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,012 - root - DEBUG - Width: 306, Height: 30, RowLength: 612
+2022-09-30 01:26:50,012 - root - DEBUG - BPP: 16
+2022-09-30 01:26:50,012 - root - DEBUG - Writing image mini 16 bit/pixel...
+2022-09-30 01:26:50,016 - root - DEBUG - Resource 26 offset is 488168...
+2022-09-30 01:26:50,016 - root - DEBUG - Encoding resource 26...
+2022-09-30 01:26:50,017 - root - DEBUG -  hasHalfAlpha: False, has_transparency: False
+2022-09-30 01:26:50,017 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,017 - root - DEBUG - Width: 306, Height: 30, RowLength: 612
+2022-09-30 01:26:50,017 - root - DEBUG - BPP: 16
+2022-09-30 01:26:50,017 - root - DEBUG - Writing image mini 16 bit/pixel...
+2022-09-30 01:26:50,020 - root - DEBUG - Resource 27 offset is 506544...
+2022-09-30 01:26:50,020 - root - DEBUG - Encoding resource 27...
+2022-09-30 01:26:50,021 - root - DEBUG -  hasHalfAlpha: False, has_transparency: False
+2022-09-30 01:26:50,021 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,021 - root - DEBUG - Width: 309, Height: 30, RowLength: 618
+2022-09-30 01:26:50,021 - root - DEBUG - BPP: 16
+2022-09-30 01:26:50,021 - root - DEBUG - Writing image mini 16 bit/pixel...
+2022-09-30 01:26:50,025 - root - DEBUG - Resource 28 offset is 525100...
+2022-09-30 01:26:50,025 - root - DEBUG - Encoding resource 28...
+2022-09-30 01:26:50,025 - root - DEBUG -  hasHalfAlpha: False, has_transparency: False
+2022-09-30 01:26:50,025 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,025 - root - DEBUG - Width: 306, Height: 30, RowLength: 612
+2022-09-30 01:26:50,025 - root - DEBUG - BPP: 16
+2022-09-30 01:26:50,025 - root - DEBUG - Writing image mini 16 bit/pixel...
+2022-09-30 01:26:50,029 - root - DEBUG - Resource 29 offset is 543476...
+2022-09-30 01:26:50,029 - root - DEBUG - Encoding resource 29...
+2022-09-30 01:26:50,030 - root - DEBUG -  hasHalfAlpha: False, has_transparency: False
+2022-09-30 01:26:50,030 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,030 - root - DEBUG - Width: 306, Height: 30, RowLength: 612
+2022-09-30 01:26:50,030 - root - DEBUG - BPP: 16
+2022-09-30 01:26:50,030 - root - DEBUG - Writing image mini 16 bit/pixel...
+2022-09-30 01:26:50,033 - root - DEBUG - Resource 30 offset is 561852...
+2022-09-30 01:26:50,033 - root - DEBUG - Encoding resource 30...
+2022-09-30 01:26:50,034 - root - DEBUG -  hasHalfAlpha: False, has_transparency: False
+2022-09-30 01:26:50,034 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,034 - root - DEBUG - Width: 306, Height: 30, RowLength: 612
+2022-09-30 01:26:50,034 - root - DEBUG - BPP: 16
+2022-09-30 01:26:50,034 - root - DEBUG - Writing image mini 16 bit/pixel...
+2022-09-30 01:26:50,038 - root - DEBUG - Resource 31 offset is 580228...
+2022-09-30 01:26:50,038 - root - DEBUG - Encoding resource 31...
+2022-09-30 01:26:50,038 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,038 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,038 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,038 - root - DEBUG - Width: 14, Height: 20, RowLength: 28
+2022-09-30 01:26:50,038 - root - DEBUG - BPP: 16, DataSize: 516
+2022-09-30 01:26:50,038 - root - DEBUG - Resource 32 offset is 580760...
+2022-09-30 01:26:50,038 - root - DEBUG - Encoding resource 32...
+2022-09-30 01:26:50,038 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,038 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,038 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,038 - root - DEBUG - Width: 14, Height: 20, RowLength: 28
+2022-09-30 01:26:50,038 - root - DEBUG - BPP: 16, DataSize: 264
+2022-09-30 01:26:50,038 - root - DEBUG - Resource 33 offset is 581040...
+2022-09-30 01:26:50,038 - root - DEBUG - Encoding resource 33...
+2022-09-30 01:26:50,038 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,038 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,038 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,038 - root - DEBUG - Width: 14, Height: 20, RowLength: 28
+2022-09-30 01:26:50,038 - root - DEBUG - BPP: 16, DataSize: 442
+2022-09-30 01:26:50,038 - root - DEBUG - Resource 34 offset is 581498...
+2022-09-30 01:26:50,038 - root - DEBUG - Encoding resource 34...
+2022-09-30 01:26:50,038 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,038 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,038 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,039 - root - DEBUG - Width: 14, Height: 20, RowLength: 28
+2022-09-30 01:26:50,039 - root - DEBUG - BPP: 16, DataSize: 456
+2022-09-30 01:26:50,039 - root - DEBUG - Resource 35 offset is 581970...
+2022-09-30 01:26:50,039 - root - DEBUG - Encoding resource 35...
+2022-09-30 01:26:50,039 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,039 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,039 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,039 - root - DEBUG - Width: 14, Height: 20, RowLength: 28
+2022-09-30 01:26:50,039 - root - DEBUG - BPP: 16, DataSize: 396
+2022-09-30 01:26:50,039 - root - DEBUG - Resource 36 offset is 582382...
+2022-09-30 01:26:50,039 - root - DEBUG - Encoding resource 36...
+2022-09-30 01:26:50,039 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,039 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,039 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,039 - root - DEBUG - Width: 14, Height: 20, RowLength: 28
+2022-09-30 01:26:50,039 - root - DEBUG - BPP: 16, DataSize: 458
+2022-09-30 01:26:50,039 - root - DEBUG - Resource 37 offset is 582856...
+2022-09-30 01:26:50,039 - root - DEBUG - Encoding resource 37...
+2022-09-30 01:26:50,039 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,039 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,039 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,039 - root - DEBUG - Width: 14, Height: 20, RowLength: 28
+2022-09-30 01:26:50,039 - root - DEBUG - BPP: 16, DataSize: 508
+2022-09-30 01:26:50,039 - root - DEBUG - Resource 38 offset is 583380...
+2022-09-30 01:26:50,039 - root - DEBUG - Encoding resource 38...
+2022-09-30 01:26:50,039 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,039 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,039 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,039 - root - DEBUG - Width: 14, Height: 20, RowLength: 28
+2022-09-30 01:26:50,039 - root - DEBUG - BPP: 16, DataSize: 330
+2022-09-30 01:26:50,039 - root - DEBUG - Resource 39 offset is 583726...
+2022-09-30 01:26:50,039 - root - DEBUG - Encoding resource 39...
+2022-09-30 01:26:50,039 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,039 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,040 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,040 - root - DEBUG - Width: 14, Height: 20, RowLength: 28
+2022-09-30 01:26:50,040 - root - DEBUG - BPP: 16, DataSize: 530
+2022-09-30 01:26:50,040 - root - DEBUG - Resource 40 offset is 584272...
+2022-09-30 01:26:50,040 - root - DEBUG - Encoding resource 40...
+2022-09-30 01:26:50,040 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,040 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,040 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,040 - root - DEBUG - Width: 14, Height: 20, RowLength: 28
+2022-09-30 01:26:50,040 - root - DEBUG - BPP: 16, DataSize: 510
+2022-09-30 01:26:50,040 - root - DEBUG - Resource 41 offset is 584798...
+2022-09-30 01:26:50,040 - root - DEBUG - Encoding resource 41...
+2022-09-30 01:26:50,040 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:50,040 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,040 - root - DEBUG - Width: 26, Height: 30, RowLength: 78
+2022-09-30 01:26:50,040 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:50,040 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:50,040 - root - DEBUG - Resource 42 offset is 587154...
+2022-09-30 01:26:50,040 - root - DEBUG - Encoding resource 42...
+2022-09-30 01:26:50,040 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,040 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,040 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,040 - root - DEBUG - Width: 4, Height: 20, RowLength: 8
+2022-09-30 01:26:50,040 - root - DEBUG - BPP: 16, DataSize: 36
+2022-09-30 01:26:50,040 - root - DEBUG - Resource 43 offset is 587206...
+2022-09-30 01:26:50,040 - root - DEBUG - Encoding resource 43...
+2022-09-30 01:26:50,041 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:50,041 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,041 - root - DEBUG - Width: 30, Height: 30, RowLength: 90
+2022-09-30 01:26:50,041 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:50,041 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:50,041 - root - DEBUG - Resource 44 offset is 589922...
+2022-09-30 01:26:50,041 - root - DEBUG - Encoding resource 44...
+2022-09-30 01:26:50,042 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,042 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,045 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,045 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,045 - root - DEBUG - BPP: 16, DataSize: 6320
+2022-09-30 01:26:50,045 - root - DEBUG - Resource 45 offset is 596258...
+2022-09-30 01:26:50,045 - root - DEBUG - Encoding resource 45...
+2022-09-30 01:26:50,045 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,045 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,048 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,048 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,048 - root - DEBUG - BPP: 16, DataSize: 4546
+2022-09-30 01:26:50,048 - root - DEBUG - Resource 46 offset is 600820...
+2022-09-30 01:26:50,048 - root - DEBUG - Encoding resource 46...
+2022-09-30 01:26:50,049 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,049 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,052 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,052 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,052 - root - DEBUG - BPP: 16, DataSize: 8348
+2022-09-30 01:26:50,052 - root - DEBUG - Resource 47 offset is 609184...
+2022-09-30 01:26:50,052 - root - DEBUG - Encoding resource 47...
+2022-09-30 01:26:50,052 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,053 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,055 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,055 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,055 - root - DEBUG - BPP: 16, DataSize: 6940
+2022-09-30 01:26:50,055 - root - DEBUG - Resource 48 offset is 616140...
+2022-09-30 01:26:50,055 - root - DEBUG - Encoding resource 48...
+2022-09-30 01:26:50,056 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,056 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,059 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,059 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,059 - root - DEBUG - BPP: 16, DataSize: 5070
+2022-09-30 01:26:50,059 - root - DEBUG - Resource 49 offset is 621226...
+2022-09-30 01:26:50,059 - root - DEBUG - Encoding resource 49...
+2022-09-30 01:26:50,059 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,059 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,062 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,062 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,062 - root - DEBUG - BPP: 16, DataSize: 5236
+2022-09-30 01:26:50,062 - root - DEBUG - Resource 50 offset is 626478...
+2022-09-30 01:26:50,062 - root - DEBUG - Encoding resource 50...
+2022-09-30 01:26:50,063 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,063 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,066 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,066 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,066 - root - DEBUG - BPP: 16, DataSize: 10170
+2022-09-30 01:26:50,066 - root - DEBUG - Resource 51 offset is 636664...
+2022-09-30 01:26:50,066 - root - DEBUG - Encoding resource 51...
+2022-09-30 01:26:50,067 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,067 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,070 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,070 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,070 - root - DEBUG - BPP: 16, DataSize: 8654
+2022-09-30 01:26:50,070 - root - DEBUG - Resource 52 offset is 645334...
+2022-09-30 01:26:50,070 - root - DEBUG - Encoding resource 52...
+2022-09-30 01:26:50,071 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,071 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,075 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,075 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,075 - root - DEBUG - BPP: 16, DataSize: 9936
+2022-09-30 01:26:50,075 - root - DEBUG - Resource 53 offset is 655286...
+2022-09-30 01:26:50,075 - root - DEBUG - Encoding resource 53...
+2022-09-30 01:26:50,075 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,075 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,078 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,078 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,078 - root - DEBUG - BPP: 16, DataSize: 8464
+2022-09-30 01:26:50,078 - root - DEBUG - Resource 54 offset is 663766...
+2022-09-30 01:26:50,078 - root - DEBUG - Encoding resource 54...
+2022-09-30 01:26:50,079 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,079 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,082 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,082 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,082 - root - DEBUG - BPP: 16, DataSize: 7328
+2022-09-30 01:26:50,082 - root - DEBUG - Resource 55 offset is 671110...
+2022-09-30 01:26:50,082 - root - DEBUG - Encoding resource 55...
+2022-09-30 01:26:50,083 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,083 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,086 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,086 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,086 - root - DEBUG - BPP: 16, DataSize: 8822
+2022-09-30 01:26:50,086 - root - DEBUG - Resource 56 offset is 679948...
+2022-09-30 01:26:50,086 - root - DEBUG - Encoding resource 56...
+2022-09-30 01:26:50,087 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,087 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,090 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,090 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,090 - root - DEBUG - BPP: 16, DataSize: 7308
+2022-09-30 01:26:50,090 - root - DEBUG - Resource 57 offset is 687272...
+2022-09-30 01:26:50,090 - root - DEBUG - Encoding resource 57...
+2022-09-30 01:26:50,091 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,091 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,094 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,094 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,094 - root - DEBUG - BPP: 16, DataSize: 7292
+2022-09-30 01:26:50,094 - root - DEBUG - Resource 58 offset is 694580...
+2022-09-30 01:26:50,094 - root - DEBUG - Encoding resource 58...
+2022-09-30 01:26:50,094 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,094 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,097 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,097 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,097 - root - DEBUG - BPP: 16, DataSize: 3198
+2022-09-30 01:26:50,097 - root - DEBUG - Resource 59 offset is 697794...
+2022-09-30 01:26:50,097 - root - DEBUG - Encoding resource 59...
+2022-09-30 01:26:50,097 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,098 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,100 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,100 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,100 - root - DEBUG - BPP: 16, DataSize: 3850
+2022-09-30 01:26:50,100 - root - DEBUG - Resource 60 offset is 701660...
+2022-09-30 01:26:50,100 - root - DEBUG - Encoding resource 60...
+2022-09-30 01:26:50,101 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,101 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,104 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,104 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,104 - root - DEBUG - BPP: 16, DataSize: 8126
+2022-09-30 01:26:50,104 - root - DEBUG - Resource 61 offset is 709802...
+2022-09-30 01:26:50,104 - root - DEBUG - Encoding resource 61...
+2022-09-30 01:26:50,105 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,105 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,107 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,107 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,107 - root - DEBUG - BPP: 16, DataSize: 3758
+2022-09-30 01:26:50,107 - root - DEBUG - Resource 62 offset is 713576...
+2022-09-30 01:26:50,107 - root - DEBUG - Encoding resource 62...
+2022-09-30 01:26:50,108 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,108 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,110 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,110 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,110 - root - DEBUG - BPP: 16, DataSize: 4070
+2022-09-30 01:26:50,110 - root - DEBUG - Resource 63 offset is 717662...
+2022-09-30 01:26:50,110 - root - DEBUG - Encoding resource 63...
+2022-09-30 01:26:50,111 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,111 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,114 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,114 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,114 - root - DEBUG - BPP: 16, DataSize: 9210
+2022-09-30 01:26:50,114 - root - DEBUG - Resource 64 offset is 726888...
+2022-09-30 01:26:50,114 - root - DEBUG - Encoding resource 64...
+2022-09-30 01:26:50,115 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,115 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,118 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,118 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,118 - root - DEBUG - BPP: 16, DataSize: 8728
+2022-09-30 01:26:50,118 - root - DEBUG - Resource 65 offset is 735632...
+2022-09-30 01:26:50,118 - root - DEBUG - Encoding resource 65...
+2022-09-30 01:26:50,119 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,119 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,122 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,122 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,122 - root - DEBUG - BPP: 16, DataSize: 7202
+2022-09-30 01:26:50,122 - root - DEBUG - Resource 66 offset is 742850...
+2022-09-30 01:26:50,122 - root - DEBUG - Encoding resource 66...
+2022-09-30 01:26:50,123 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,123 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,126 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,126 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,126 - root - DEBUG - BPP: 16, DataSize: 9104
+2022-09-30 01:26:50,126 - root - DEBUG - Resource 67 offset is 751970...
+2022-09-30 01:26:50,126 - root - DEBUG - Encoding resource 67...
+2022-09-30 01:26:50,127 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,127 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,130 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,130 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,130 - root - DEBUG - BPP: 16, DataSize: 7040
+2022-09-30 01:26:50,130 - root - DEBUG - Resource 68 offset is 759026...
+2022-09-30 01:26:50,130 - root - DEBUG - Encoding resource 68...
+2022-09-30 01:26:50,130 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,130 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,133 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,133 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,133 - root - DEBUG - BPP: 16, DataSize: 7450
+2022-09-30 01:26:50,133 - root - DEBUG - Resource 69 offset is 766492...
+2022-09-30 01:26:50,133 - root - DEBUG - Encoding resource 69...
+2022-09-30 01:26:50,134 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,134 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,137 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,137 - root - DEBUG - Width: 300, Height: 39, RowLength: 600
+2022-09-30 01:26:50,137 - root - DEBUG - BPP: 16, DataSize: 4072
+2022-09-30 01:26:50,137 - root - DEBUG - Resource 70 offset is 770580...
+2022-09-30 01:26:50,137 - root - DEBUG - Encoding resource 70...
+2022-09-30 01:26:50,137 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,137 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,137 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,137 - root - DEBUG - Width: 9, Height: 25, RowLength: 18
+2022-09-30 01:26:50,137 - root - DEBUG - BPP: 16, DataSize: 166
+2022-09-30 01:26:50,137 - root - DEBUG - Resource 71 offset is 770762...
+2022-09-30 01:26:50,137 - root - DEBUG - Encoding resource 71...
+2022-09-30 01:26:50,137 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,137 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,137 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,137 - root - DEBUG - Width: 10, Height: 25, RowLength: 20
+2022-09-30 01:26:50,137 - root - DEBUG - BPP: 16, DataSize: 96
+2022-09-30 01:26:50,137 - root - DEBUG - Resource 72 offset is 770874...
+2022-09-30 01:26:50,137 - root - DEBUG - Encoding resource 72...
+2022-09-30 01:26:50,137 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,137 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,137 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,137 - root - DEBUG - Width: 26, Height: 25, RowLength: 52
+2022-09-30 01:26:50,137 - root - DEBUG - BPP: 16, DataSize: 1020
+2022-09-30 01:26:50,137 - root - DEBUG - Resource 73 offset is 771910...
+2022-09-30 01:26:50,137 - root - DEBUG - Encoding resource 73...
+2022-09-30 01:26:50,137 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,138 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,138 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,138 - root - DEBUG - Width: 26, Height: 25, RowLength: 52
+2022-09-30 01:26:50,138 - root - DEBUG - BPP: 16, DataSize: 842
+2022-09-30 01:26:50,138 - root - DEBUG - Resource 74 offset is 772768...
+2022-09-30 01:26:50,138 - root - DEBUG - Encoding resource 74...
+2022-09-30 01:26:50,138 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,138 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,138 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,138 - root - DEBUG - Width: 27, Height: 25, RowLength: 54
+2022-09-30 01:26:50,138 - root - DEBUG - BPP: 16, DataSize: 1350
+2022-09-30 01:26:50,138 - root - DEBUG - Resource 75 offset is 774134...
+2022-09-30 01:26:50,138 - root - DEBUG - Encoding resource 75...
+2022-09-30 01:26:50,138 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,138 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,139 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,139 - root - DEBUG - Width: 21, Height: 25, RowLength: 42
+2022-09-30 01:26:50,139 - root - DEBUG - BPP: 16, DataSize: 920
+2022-09-30 01:26:50,139 - root - DEBUG - Resource 76 offset is 775070...
+2022-09-30 01:26:50,139 - root - DEBUG - Encoding resource 76...
+2022-09-30 01:26:50,139 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,139 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,140 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,140 - root - DEBUG - Width: 41, Height: 60, RowLength: 82
+2022-09-30 01:26:50,140 - root - DEBUG - BPP: 16, DataSize: 2926
+2022-09-30 01:26:50,140 - root - DEBUG - Resource 77 offset is 778012...
+2022-09-30 01:26:50,140 - root - DEBUG - Encoding resource 77...
+2022-09-30 01:26:50,140 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,140 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,141 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,141 - root - DEBUG - Width: 41, Height: 60, RowLength: 82
+2022-09-30 01:26:50,141 - root - DEBUG - BPP: 16, DataSize: 1492
+2022-09-30 01:26:50,141 - root - DEBUG - Resource 78 offset is 779520...
+2022-09-30 01:26:50,141 - root - DEBUG - Encoding resource 78...
+2022-09-30 01:26:50,141 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,141 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,142 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,142 - root - DEBUG - Width: 41, Height: 60, RowLength: 82
+2022-09-30 01:26:50,142 - root - DEBUG - BPP: 16, DataSize: 2692
+2022-09-30 01:26:50,142 - root - DEBUG - Resource 79 offset is 782228...
+2022-09-30 01:26:50,142 - root - DEBUG - Encoding resource 79...
+2022-09-30 01:26:50,142 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,142 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,143 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,143 - root - DEBUG - Width: 41, Height: 60, RowLength: 82
+2022-09-30 01:26:50,143 - root - DEBUG - BPP: 16, DataSize: 2686
+2022-09-30 01:26:50,143 - root - DEBUG - Resource 80 offset is 784930...
+2022-09-30 01:26:50,143 - root - DEBUG - Encoding resource 80...
+2022-09-30 01:26:50,143 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,143 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,144 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,144 - root - DEBUG - Width: 41, Height: 60, RowLength: 82
+2022-09-30 01:26:50,144 - root - DEBUG - BPP: 16, DataSize: 2446
+2022-09-30 01:26:50,144 - root - DEBUG - Resource 81 offset is 787392...
+2022-09-30 01:26:50,144 - root - DEBUG - Encoding resource 81...
+2022-09-30 01:26:50,144 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,144 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,145 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,145 - root - DEBUG - Width: 41, Height: 60, RowLength: 82
+2022-09-30 01:26:50,145 - root - DEBUG - BPP: 16, DataSize: 2750
+2022-09-30 01:26:50,145 - root - DEBUG - Resource 82 offset is 790158...
+2022-09-30 01:26:50,145 - root - DEBUG - Encoding resource 82...
+2022-09-30 01:26:50,145 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,145 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,146 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,146 - root - DEBUG - Width: 41, Height: 60, RowLength: 82
+2022-09-30 01:26:50,146 - root - DEBUG - BPP: 16, DataSize: 3008
+2022-09-30 01:26:50,146 - root - DEBUG - Resource 83 offset is 793182...
+2022-09-30 01:26:50,146 - root - DEBUG - Encoding resource 83...
+2022-09-30 01:26:50,147 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,147 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,147 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,147 - root - DEBUG - Width: 41, Height: 60, RowLength: 82
+2022-09-30 01:26:50,147 - root - DEBUG - BPP: 16, DataSize: 1942
+2022-09-30 01:26:50,147 - root - DEBUG - Resource 84 offset is 795140...
+2022-09-30 01:26:50,147 - root - DEBUG - Encoding resource 84...
+2022-09-30 01:26:50,148 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,148 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,149 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,149 - root - DEBUG - Width: 41, Height: 60, RowLength: 82
+2022-09-30 01:26:50,149 - root - DEBUG - BPP: 16, DataSize: 3166
+2022-09-30 01:26:50,149 - root - DEBUG - Resource 85 offset is 798322...
+2022-09-30 01:26:50,149 - root - DEBUG - Encoding resource 85...
+2022-09-30 01:26:50,149 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,149 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,150 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,150 - root - DEBUG - Width: 41, Height: 60, RowLength: 82
+2022-09-30 01:26:50,150 - root - DEBUG - BPP: 16, DataSize: 3006
+2022-09-30 01:26:50,150 - root - DEBUG - Resource 86 offset is 801344...
+2022-09-30 01:26:50,150 - root - DEBUG - Encoding resource 86...
+2022-09-30 01:26:50,150 - root - DEBUG -  hasHalfAlpha: False, has_transparency: True
+2022-09-30 01:26:50,150 - root - DEBUG - Generate image data bme 16 bit/pixel...
+2022-09-30 01:26:50,150 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,150 - root - DEBUG - Width: 11, Height: 60, RowLength: 22
+2022-09-30 01:26:50,150 - root - DEBUG - BPP: 16, DataSize: 464
+2022-09-30 01:26:50,150 - root - DEBUG - Resource 87 offset is 801824...
+2022-09-30 01:26:50,150 - root - DEBUG - Encoding resource 87...
+2022-09-30 01:26:50,150 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:50,150 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,150 - root - DEBUG - Width: 31, Height: 26, RowLength: 93
+2022-09-30 01:26:50,150 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:50,150 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:50,151 - root - DEBUG - Resource 88 offset is 804258...
+2022-09-30 01:26:50,151 - root - DEBUG - Encoding resource 88...
+2022-09-30 01:26:50,151 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:50,151 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,151 - root - DEBUG - Width: 26, Height: 26, RowLength: 78
+2022-09-30 01:26:50,151 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:50,151 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:50,151 - root - DEBUG - Resource 89 offset is 806302...
+2022-09-30 01:26:50,151 - root - DEBUG - Encoding resource 89...
+2022-09-30 01:26:50,151 - root - DEBUG -  hasHalfAlpha: True, has_transparency: True
+2022-09-30 01:26:50,151 - root - DEBUG - Writing image header mini...
+2022-09-30 01:26:50,151 - root - DEBUG - Width: 26, Height: 26, RowLength: 78
+2022-09-30 01:26:50,151 - root - DEBUG - BPP: 24, unknown2: 0
+2022-09-30 01:26:50,151 - root - DEBUG - Writing image mini 24 bit/pixel...
+2022-09-30 01:26:50,151 - root - DEBUG - Writing resources offsets table
+2022-09-30 01:26:50,151 - root - DEBUG - Writing padding...
+2022-09-30 01:26:50,151 - root - DEBUG - Writing resources
+2022-09-30 01:26:50,152 - root - DEBUG - Injecting additional header info
+2022-09-30 01:26:50,153 - root - DEBUG - Injected size: 809214
+2022-09-30 01:26:50,154 - root - DEBUG - basename: gtsmini_5922_packed
+2022-09-30 01:26:50,154 - root - DEBUG - hash length: 7
+2022-09-30 01:26:50,154 - root - DEBUG - basename 7 byte hash 80eb4a27a6778e
